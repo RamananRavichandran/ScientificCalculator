@@ -1031,3 +1031,8 @@ werkzeug - INFO - 127.0.0.1 - - [03/Dec/2019 15:04:32] "GET /scientificcalculato
 werkzeug - INFO - 127.0.0.1 - - [03/Dec/2019 15:04:33] "GET /scientificcalculator/ui/images/favicon-32x32.png HTTP/1.1" 200 - - 2019-12-03 15:04:33,548 - 122 - _internal - _log - C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py
 werkzeug - INFO - 127.0.0.1 - - [03/Dec/2019 15:04:38] "POST /scientificcalculator/src/driver/scientific_calc/ScientificCalc/ln_func7 HTTP/1.1" 200 - - 2019-12-03 15:04:38,558 - 122 - _internal - _log - C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py
 werkzeug - INFO - 127.0.0.1 - - [03/Dec/2019 15:04:48] "POST /scientificcalculator/src/driver/scientific_calc/ScientificCalc/calculate_tanh1 HTTP/1.1" 200 - - 2019-12-03 15:04:48,068 - 122 - _internal - _log - C:\ProgramData\Anaconda3\lib\site-packages\werkzeug\_internal.py
+root - ERROR - invalid literal for int() with base 10: '2.2' - 2019-12-04 09:47:04,581 - 78 - scientific_calc - var_initialization - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\src\driver\scientific_calc.py
+Traceback (most recent call last):
+  File "C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\src\driver\scientific_calc.py", line 75, in var_initialization
+    power = int(power_no)
+ValueError: invalid literal for int() with base 10: '2.2'
