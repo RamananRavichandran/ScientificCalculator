@@ -2,6 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+    <list default="true" id="b07c65d7-d032-4c49-999c-142b6822e068" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ScientificCalculatorLog.log" beforeDir="false" afterPath="$PROJECT_DIR$/ScientificCalculatorLog.log" afterDir="false" />
+    </list>
+=======
+<<<<<<< HEAD
+    <list default="true" id="31a5189b-810e-418a-8c1f-140b6e52decc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__main__.py" beforeDir="false" />
+    </list>
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
     <list default="true" id="efe7885f-e9e1-4629-b1df-15a22625c302" name="Default Changelist" comment="" />
 =======
@@ -1948,12 +1959,18 @@
 >>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
 =======
 >>>>>>> d130c38b5790f23715f75e9664db833a2266946b
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
+>>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
   <component name="FUSProjectUsageTrigger">
@@ -2185,6 +2202,8 @@
 >>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
 =======
 >>>>>>> d130c38b5790f23715f75e9664db833a2266946b
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
+>>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -2193,6 +2212,18 @@
     </option>
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+<<<<<<< HEAD
+=======
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -2229,11 +2260,36 @@
     </option>
 =======
 >>>>>>> d130c38b5790f23715f75e9664db833a2266946b
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
+>>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
+<<<<<<< HEAD
+        <option value="C:\Users\abinaya.udaya.kumar\PycharmProjects\ScientificCalculator\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TozpKLHJqLOptT3vnKm1OA4fc4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+=======
+<<<<<<< HEAD
+        <option value="C:\Users\ramanan.ravichandran\PycharmProjects\ScientificCalculator\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TryikfgcbmLdZ0UreAnkvcdlGl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+=======
         <option value="C:\Users\nivetha.samraj\PycharmProjects\ScientificCalculator\.idea" />
       </set>
     </option>
@@ -2243,10 +2299,16 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
 <<<<<<< HEAD
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+<<<<<<< HEAD
+      <recent name="C:\Users\ramanan.ravichandran\PycharmProjects\ScientificCalculator\venv" />
+      <recent name="C:\Users\ramanan.ravichandran\PycharmProjects\ScientificCalculator" />
+    </key>
+=======
       <recent name="C:\Users\s.b.dhanapalan\PycharmProject\ScientificCalculator" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -2436,7 +2498,9 @@
 =======
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
 >>>>>>> d130c38b5790f23715f75e9664db833a2266946b
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
   </component>
+>>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -2450,6 +2514,81 @@
     </option>
   </component>
 <<<<<<< HEAD
+  <component name="RunManager" selected="Python tests.Unittests for scientific_calc_test.ScientificCalcTest">
+    <configuration name="Unittests for scientific_calc_test.ScientificCalcTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ScientificCalculator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/driver" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;scientific_calc_test.ScientificCalcTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for scientific_calc_test.ScientificCalcTest.test_mul_one_negative" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ScientificCalculator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/driver" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;scientific_calc_test.ScientificCalcTest.test_mul_one_negative&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for scientific_calc_test.ScientificCalcTest.test_mul_two_positive" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ScientificCalculator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/driver" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;scientific_calc_test.ScientificCalcTest.test_mul_two_positive&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for scientific_calc_test.ScientificCalcTest.test_sub_floatvalue" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ScientificCalculator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/driver" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;scientific_calc_test.ScientificCalcTest.test_sub_floatvalue&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in scientific_calc_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ScientificCalculator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/driver" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/driver/scientific_calc_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+=======
+<<<<<<< HEAD
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
   <component name="RunManager" selected="Python.scientific_calc_test">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -2462,6 +2601,7 @@
   <component name="RunManager" selected="Python.main">
     <configuration name="PRAC" type="PythonConfigurationType" factoryName="Python" temporary="true">
 >>>>>>> d130c38b5790f23715f75e9664db833a2266946b
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
       <module name="ScientificCalculator" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -2470,6 +2610,8 @@
       </envs>
       <option name="SDK_HOME" value="" />
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -2477,12 +2619,16 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/main.py" />
 =======
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/main" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/main/main.py" />
+<<<<<<< HEAD
+=======
 >>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -2491,6 +2637,9 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
+    <configuration name="scientific_calc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
 <<<<<<< HEAD
     <configuration name="scientific_calc_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -2537,6 +2686,7 @@
 =======
     <configuration name="PRAC.PY" type="PythonConfigurationType" factoryName="Python" temporary="true">
 >>>>>>> d130c38b5790f23715f75e9664db833a2266946b
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
       <module name="ScientificCalculator" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -2544,6 +2694,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/driver" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/driver/scientific_calc.py" />
+=======
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -2612,17 +2769,35 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+>>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
+        <item itemvalue="Python tests.Unittests for scientific_calc_test.ScientificCalcTest" />
+        <item itemvalue="Python tests.Unittests in scientific_calc_test.py" />
+        <item itemvalue="Python tests.Unittests for scientific_calc_test.ScientificCalcTest.test_mul_two_positive" />
+        <item itemvalue="Python tests.Unittests for scientific_calc_test.ScientificCalcTest.test_mul_one_negative" />
+        <item itemvalue="Python tests.Unittests for scientific_calc_test.ScientificCalcTest.test_sub_floatvalue" />
+      </list>
+    </recent_temporary>
+  </component>
+=======
         <item itemvalue="Python.main" />
+<<<<<<< HEAD
+        <item itemvalue="Python.scientific_calc" />
+      </list>
+    </recent_temporary>
+  </component>
+=======
         <item itemvalue="Python.scientific_calc_test" />
         <item itemvalue="Python.PRAC" />
         <item itemvalue="Python.PRAC.PY" />
@@ -2636,11 +2811,69 @@
 >>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
 =======
 >>>>>>> d130c38b5790f23715f75e9664db833a2266946b
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
+>>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+      <changelist id="b07c65d7-d032-4c49-999c-142b6822e068" name="Default Changelist" comment="" />
+      <created>1574141417645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574141417645</updated>
+    </task>
+    <task id="LOCAL-00001" summary="calc">
+      <created>1574679347861</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574679347861</updated>
+    </task>
+    <task id="LOCAL-00002" summary="calc">
+      <created>1575025635987</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575025635987</updated>
+    </task>
+    <task id="LOCAL-00003" summary="calc">
+      <created>1575026918763</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575026918763</updated>
+    </task>
+    <task id="LOCAL-00004" summary="arithmetic functions">
+      <created>1575356888957</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575356888984</updated>
+=======
+<<<<<<< HEAD
+      <changelist id="31a5189b-810e-418a-8c1f-140b6e52decc" name="Default Changelist" comment="" />
+      <created>1574313114178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574313114178</updated>
+    </task>
+    <task id="LOCAL-00001" summary="ln_func">
+      <created>1575020746001</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575020746001</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ln_func">
+      <created>1575027837672</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575027837672</updated>
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
       <changelist id="efe7885f-e9e1-4629-b1df-15a22625c302" name="Default Changelist" comment="" />
@@ -2676,10 +2909,17 @@
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
       <updated>1575020731137</updated>
+>>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0
     </task>
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
+<<<<<<< HEAD
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="calc" />
+    <MESSAGE value="arithmetic functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="arithmetic functions" />
+=======
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -2732,10 +2972,13 @@
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
       <updated>1575347941757</updated>
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+<<<<<<< HEAD
+=======
   <component name="VcsManagerConfiguration">
 <<<<<<< HEAD
     <MESSAGE value="scientific calculator tanh" />
@@ -2828,6 +3071,7 @@
     <option name="localTasksCounter" value="12" />
     <servers />
   </component>
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -2842,6 +3086,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
+    <MESSAGE value="ln_func" />
+    <option name="LAST_COMMIT_MESSAGE" value="ln_func" />
+=======
     <MESSAGE value="Scientific Calculator" />
     <option name="LAST_COMMIT_MESSAGE" value="Scientific Calculator" />
 =======
@@ -3119,5 +3367,7 @@
       </breakpoints>
     </breakpoint-manager>
 >>>>>>> d130c38b5790f23715f75e9664db833a2266946b
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
+>>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0
   </component>
 </project>

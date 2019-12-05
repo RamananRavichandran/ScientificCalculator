@@ -218,8 +218,6 @@ class ScientificCalc:
     @classmethod
     def trig_cosh(cls, number):
         """The function to calculate cosh"""
-        logging.basicConfig(filename="ScientificCalculatorLog.log", level=logging.DEBUG,
-                            format='%(asctime)s:%(levelname)s:%(message)s', filemode='w')
         try:
             if "." in str(number):
                 number = float(number)
@@ -230,3 +228,92 @@ class ScientificCalc:
         except ValueError as e_value:
             logging.exception(e_value)
             return "Value error"
+
+    @classmethod
+    def ln_func(cls, x_value):
+        """The function to calculate ln"""
+        try:
+            if "." in str(x_value):
+                x_value = float(x_value)
+                if x_value > 0:
+                    result = math.log(x_value)
+                elif x_value == 0:
+                    result = "infinity"
+                else:
+                    result = "-NAN-"
+                return result
+            else:
+                x_value = int(x_value)
+                if x_value > 0:
+                    result = math.log(x_value)
+                elif x_value == 0:
+                    result = "infinity"
+                else:
+                    result = "-NAN-"
+                return result
+        except ValueError as value:
+            result = "string is not accepted"
+            logging.error(value)
+            return result
+
+        except Exception as exception1:
+            result = "Enter a valid value"
+            logging.error(exception1)
+            return result
+
+    @classmethod
+    def addition(cls, list_add):
+        """calculating addition function"""
+        sum_list = 0
+        try:
+            for i in list_add:
+                sum_list = sum_list + float(i)
+            return sum_list
+
+        except ValueError as ex:
+            print("ValueError")
+            logging.error(ex)
+            return "Enter only numbers"
+
+    @classmethod
+    def subtraction(cls, list_sub):
+        """calculating subtraction function"""
+        try:
+            sub = float(list_sub[0])
+            for i in range(1, len(list_sub)):
+                sub = sub - float(list_sub[i])
+            return sub
+        except ValueError as ex:
+            print("ValueError")
+            logging.error(ex)
+            return "Enter only numbers"
+
+    @classmethod
+    def multiplication(cls, list_mul):
+        """calculating multiply function"""
+        try:
+            mul = 1
+            for i in list_mul:
+                mul = mul * float(i)
+            return mul
+        except ValueError as ex:
+            print("ValueError")
+            logging.error(ex)
+            return "Enter only numbers"
+
+    @classmethod
+    def division(cls, list_div):
+        """calculating divide function"""
+        try:
+            div = float(list_div[0])
+            for i in range(1, len(list_div)):
+                div = div / float(list_div[i])
+            return div
+        except ValueError as ex:
+            print("ValueError")
+            logging.error(ex)
+            return "Enter only numbers"
+        except ZeroDivisionError as ex:
+            print("ZeroDivisionError")
+            logging.error(ex)
+            return "Enter a number greater than zero"
