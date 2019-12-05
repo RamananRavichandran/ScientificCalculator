@@ -1,0 +1,30 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 65eef2b104b41a6fcf0e5e37f5f9572795ba5a77
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="pandas" />
+            <item index="1" class="java.lang.String" itemvalue="configparser" />
+            <item index="2" class="java.lang.String" itemvalue="lettuce" />
+<<<<<<< HEAD
+=======
+=======
+          <list size="4">
+            <item index="0" class="java.lang.String" itemvalue="pandas" />
+            <item index="1" class="java.lang.String" itemvalue="configparser" />
+            <item index="2" class="java.lang.String" itemvalue="PyMySQL" />
+            <item index="3" class="java.lang.String" itemvalue="lettuce" />
+>>>>>>> 5cbf5afd1f7818e7929d0c0b88bcc50f1435e5a8
+>>>>>>> 65eef2b104b41a6fcf0e5e37f5f9572795ba5a77
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

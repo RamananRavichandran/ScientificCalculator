@@ -1,0 +1,3 @@
+[setuptools.installation]
+pkg = src.main.main:main
+

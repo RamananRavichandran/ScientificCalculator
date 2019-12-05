@@ -1,3 +1,0 @@
-[setuptools.installation]
-eggsecutable = src.main.main:main
-
