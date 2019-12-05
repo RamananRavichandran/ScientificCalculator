@@ -2,6 +2,8 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
 =======
@@ -23,10 +25,13 @@
 =======
 =======
 <<<<<<< HEAD
+>>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="inheritedJdk" />
+<<<<<<< HEAD
+=======
 =======
 <<<<<<< HEAD
     <content url="file://$MODULE_DIR$" />
@@ -46,6 +51,7 @@
 >>>>>>> 4c944343f6172ad5f12d2d283a784b6185f55c41
 >>>>>>> d130c38b5790f23715f75e9664db833a2266946b
 >>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
+>>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">

@@ -251,12 +251,69 @@ class ScientificCalc:
                 else:
                     result = "-NAN-"
                 return result
-        except ValueError as t:
+        except ValueError as value:
             result = "string is not accepted"
-            logging.error(t)
+            logging.error(value)
             return result
 
-        except Exception as e:
+        except Exception as exception1:
             result = "Enter a valid value"
-            logging.error(e)
+            logging.error(exception1)
             return result
+
+    @classmethod
+    def addition(cls, list_add):
+        """calculating addition function"""
+        sum_list = 0
+        try:
+            for i in list_add:
+                sum_list = sum_list + float(i)
+            return sum_list
+
+        except ValueError as ex:
+            print("ValueError")
+            logging.error(ex)
+            return "Enter only numbers"
+
+    @classmethod
+    def subtraction(cls, list_sub):
+        """calculating subtraction function"""
+        try:
+            sub = float(list_sub[0])
+            for i in range(1, len(list_sub)):
+                sub = sub - float(list_sub[i])
+            return sub
+        except ValueError as ex:
+            print("ValueError")
+            logging.error(ex)
+            return "Enter only numbers"
+
+    @classmethod
+    def multiplication(cls, list_mul):
+        """calculating multiply function"""
+        try:
+            mul = 1
+            for i in list_mul:
+                mul = mul * float(i)
+            return mul
+        except ValueError as ex:
+            print("ValueError")
+            logging.error(ex)
+            return "Enter only numbers"
+
+    @classmethod
+    def division(cls, list_div):
+        """calculating divide function"""
+        try:
+            div = float(list_div[0])
+            for i in range(1, len(list_div)):
+                div = div / float(list_div[i])
+            return div
+        except ValueError as ex:
+            print("ValueError")
+            logging.error(ex)
+            return "Enter only numbers"
+        except ZeroDivisionError as ex:
+            print("ZeroDivisionError")
+            logging.error(ex)
+            return "Enter a number greater than zero"
