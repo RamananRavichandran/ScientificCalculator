@@ -1,4 +1,14 @@
 <<<<<<< HEAD
+2019-12-03 12:12:26,667:ERROR:could not convert string to float: 'a'
+2019-12-03 12:12:26,668:ERROR:could not convert string to float: 'a'
+2019-12-03 12:12:26,670:ERROR:could not convert string to float: 'a'
+2019-12-03 12:12:26,671:ERROR:could not convert string to float: 'a'
+2019-12-03 12:12:26,700:ERROR:float division by zero
+=======
+<<<<<<< HEAD
+2019-11-29 15:50:56,423:ERROR:must be real number, not str
+=======
+<<<<<<< HEAD
 2019-11-28 16:21:50,071:ERROR:could not convert string to float: 'abc'
 =======
 root - ERROR - could not convert string to float: 'sss' - 2019-11-28 12:28:35,087 - 29 - scientific_calc - calculate_tanh - C:\Users\s.b.dhanapalan\PycharmProject\ScientificCalculator\src\driver\scientific_calc.py
@@ -45,3 +55,5 @@ Traceback (most recent call last):
     base = float(base_no)
 ValueError: could not convert string to float: 'string'
 >>>>>>> 83b61c3510870c060d81b8618be93ad166c8b207
+>>>>>>> 80d716df37f1708006fe26c5251078a55fd3fe93
+>>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0

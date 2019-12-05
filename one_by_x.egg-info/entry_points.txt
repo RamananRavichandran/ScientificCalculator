@@ -1,0 +1,3 @@
+[setuptools.installation]
+mypackage = src.main.main:main
+
