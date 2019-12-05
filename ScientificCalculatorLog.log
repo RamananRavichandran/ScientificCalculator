@@ -1370,3 +1370,121 @@ werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 12:03:28] "GET / HTTP/1.1" 200 - - 
 werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 12:03:29] "GET / HTTP/1.1" 200 - - 2019-12-05 12:03:29,049 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
 werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 12:04:45] "GET / HTTP/1.1" 200 - - 2019-12-05 12:04:45,133 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
 werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 12:06:20] "GET / HTTP/1.1" 200 - - 2019-12-05 12:06:20,925 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO -  * Restarting with stat - 2019-12-05 14:25:07,239 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - WARNING -  * Debugger is active! - 2019-12-05 14:25:10,812 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO -  * Debugger PIN: 168-866-522 - 2019-12-05 14:25:10,822 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit) - 2019-12-05 14:25:10,852 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 14:25:14] "GET / HTTP/1.1" 200 - - 2019-12-05 14:25:14,426 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 14:26:15] "GET /x_power_y_request?x_power_y=x_power_y HTTP/1.1" 200 - - 2019-12-05 14:26:15,815 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 14:26:59] "POST /x_power_y_response HTTP/1.1" 200 - - 2019-12-05 14:26:59,885 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO -  * Restarting with stat - 2019-12-05 16:45:17,787 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - WARNING -  * Debugger is active! - 2019-12-05 16:45:20,546 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO -  * Debugger PIN: 168-866-522 - 2019-12-05 16:45:20,556 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit) - 2019-12-05 16:45:20,582 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 16:45:25] "GET / HTTP/1.1" 200 - - 2019-12-05 16:45:25,032 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 16:45:28] "GET /x_power_y_request?x_power_y=x_power_y HTTP/1.1" 200 - - 2019-12-05 16:45:28,036 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 16:45:50] "POST /x_power_y_response HTTP/1.1" 200 - - 2019-12-05 16:45:50,522 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 16:47:05] "GET /x_power_y_request?x_power_y=x_power_y HTTP/1.1" 200 - - 2019-12-05 16:47:05,569 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+root - ERROR - could not convert string to float: 'string' - 2019-12-05 16:47:15,456 - 79 - scientific_calc - var_initialization - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\src\driver\scientific_calc.py
+Traceback (most recent call last):
+  File "C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\src\driver\scientific_calc.py", line 75, in var_initialization
+    base = float(base_no)
+ValueError: could not convert string to float: 'string'
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 16:47:15] "POST /x_power_y_response HTTP/1.1" 200 - - 2019-12-05 16:47:15,458 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 16:47:29] "POST /x_power_y_response HTTP/1.1" 200 - - 2019-12-05 16:47:29,453 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO -  * Restarting with stat - 2019-12-05 17:05:18,027 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - WARNING -  * Debugger is active! - 2019-12-05 17:05:20,537 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO -  * Debugger PIN: 168-866-522 - 2019-12-05 17:05:20,549 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit) - 2019-12-05 17:05:20,590 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:05:20] "GET / HTTP/1.1" 200 - - 2019-12-05 17:05:20,633 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:08:37] "GET / HTTP/1.1" 200 - - 2019-12-05 17:08:37,006 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO -  * Detected change in 'C:\\Users\\sneha.govindharajan\\PycharmProjects\\ScientificCalculator\\src\\driver\\scientific_calc.py', reloading - 2019-12-05 17:15:50,328 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO -  * Restarting with stat - 2019-12-05 17:15:50,377 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+root - ERROR - invalid literal for int() with base 10: 'stromh' - 2019-12-05 17:24:47,125 - 64 - scientific_calc - factorial - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\src\driver\scientific_calc.py
+Traceback (most recent call last):
+  File "C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\src\driver\scientific_calc.py", line 57, in factorial
+    cls.fact = int(fact_input)
+ValueError: invalid literal for int() with base 10: 'stromh'
+root - ERROR - invalid literal for int() with base 10: '5.6' - 2019-12-05 17:27:48,735 - 64 - scientific_calc - factorial - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\src\driver\scientific_calc.py
+Traceback (most recent call last):
+  File "C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\src\driver\scientific_calc.py", line 57, in factorial
+    cls.fact = int(fact_input)
+ValueError: invalid literal for int() with base 10: '5.6'
+root - ERROR - invalid literal for int() with base 10: '5.4' - 2019-12-05 17:28:03,110 - 64 - scientific_calc - factorial - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\src\driver\scientific_calc.py
+Traceback (most recent call last):
+  File "C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\src\driver\scientific_calc.py", line 57, in factorial
+    cls.fact = int(fact_input)
+ValueError: invalid literal for int() with base 10: '5.4'
+root - ERROR - invalid literal for int() with base 10: '-1.9' - 2019-12-05 17:32:16,909 - 66 - scientific_calc - factorial - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\src\driver\scientific_calc.py
+Traceback (most recent call last):
+  File "C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\src\driver\scientific_calc.py", line 57, in factorial
+    cls.fact = int(fact_input)
+ValueError: invalid literal for int() with base 10: '-1.9'
+root - ERROR - invalid literal for int() with base 10: '1.9' - 2019-12-05 17:32:22,823 - 66 - scientific_calc - factorial - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\src\driver\scientific_calc.py
+Traceback (most recent call last):
+  File "C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\src\driver\scientific_calc.py", line 57, in factorial
+    cls.fact = int(fact_input)
+ValueError: invalid literal for int() with base 10: '1.9'
+root - ERROR - invalid literal for int() with base 10: '5.6' - 2019-12-05 17:34:37,072 - 66 - scientific_calc - factorial - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\src\driver\scientific_calc.py
+Traceback (most recent call last):
+  File "C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\src\driver\scientific_calc.py", line 57, in factorial
+    cls.fact = int(fact_input)
+ValueError: invalid literal for int() with base 10: '5.6'
+root - ERROR - invalid literal for int() with base 10: '5.6' - 2019-12-05 17:37:51,606 - 68 - scientific_calc - factorial - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\src\driver\scientific_calc.py
+Traceback (most recent call last):
+  File "C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\src\driver\scientific_calc.py", line 58, in factorial
+    cls.fact = int(fact_input)
+ValueError: invalid literal for int() with base 10: '5.6'
+werkzeug - INFO -  * Restarting with stat - 2019-12-05 17:45:49,035 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - WARNING -  * Debugger is active! - 2019-12-05 17:45:54,359 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO -  * Debugger PIN: 168-866-522 - 2019-12-05 17:45:54,371 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit) - 2019-12-05 17:45:54,515 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:05] "GET / HTTP/1.1" 404 - - 2019-12-05 17:46:05,294 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:05] "GET /favicon.ico HTTP/1.1" 404 - - 2019-12-05 17:46:05,458 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:19] "GET /scientificcalculator/ui HTTP/1.1" 308 - - 2019-12-05 17:46:19,776 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:19] "GET /scientificcalculator/ui/ HTTP/1.1" 200 - - 2019-12-05 17:46:19,886 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:20] "GET /scientificcalculator/ui/css/typography.css HTTP/1.1" 200 - - 2019-12-05 17:46:20,183 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:20] "GET /scientificcalculator/ui/lib/object-assign-pollyfill.js HTTP/1.1" 200 - - 2019-12-05 17:46:20,290 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:20] "GET /scientificcalculator/ui/lib/jquery.slideto.min.js HTTP/1.1" 200 - - 2019-12-05 17:46:20,292 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:20] "GET /scientificcalculator/ui/css/screen.css HTTP/1.1" 200 - - 2019-12-05 17:46:20,317 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:20] "GET /scientificcalculator/ui/css/reset.css HTTP/1.1" 200 - - 2019-12-05 17:46:20,326 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:20] "GET /scientificcalculator/ui/lib/jquery-1.8.0.min.js HTTP/1.1" 200 - - 2019-12-05 17:46:20,372 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:20] "GET /scientificcalculator/ui/lib/jquery.wiggle.min.js HTTP/1.1" 200 - - 2019-12-05 17:46:20,501 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:20] "GET /scientificcalculator/ui/lib/jquery.ba-bbq.min.js HTTP/1.1" 200 - - 2019-12-05 17:46:20,685 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:20] "GET /scientificcalculator/ui/lib/handlebars-4.0.5.js HTTP/1.1" 200 - - 2019-12-05 17:46:20,801 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:21] "GET /scientificcalculator/ui/lib/highlight.9.1.0.pack_extended.js HTTP/1.1" 200 - - 2019-12-05 17:46:21,138 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:21] "GET /scientificcalculator/ui/lib/backbone-min.js HTTP/1.1" 200 - - 2019-12-05 17:46:21,156 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:21] "GET /scientificcalculator/ui/lib/jsoneditor.min.js HTTP/1.1" 200 - - 2019-12-05 17:46:21,161 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:21] "GET /scientificcalculator/ui/lib/lodash.min.js HTTP/1.1" 200 - - 2019-12-05 17:46:21,172 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:21] "GET /scientificcalculator/ui/swagger-ui.js HTTP/1.1" 200 - - 2019-12-05 17:46:21,180 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:21] "GET /scientificcalculator/ui/lib/highlight.9.1.0.pack.js HTTP/1.1" 200 - - 2019-12-05 17:46:21,190 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:21] "GET /scientificcalculator/ui/lib/marked.js HTTP/1.1" 200 - - 2019-12-05 17:46:21,545 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:21] "GET /scientificcalculator/ui/lib/swagger-oauth.js HTTP/1.1" 200 - - 2019-12-05 17:46:21,652 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:21] "GET /scientificcalculator/ui/images/logo_small.png HTTP/1.1" 200 - - 2019-12-05 17:46:21,874 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:21] "GET /scientificcalculator/ui/css/print.css HTTP/1.1" 200 - - 2019-12-05 17:46:21,884 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:22] "GET /scientificcalculator/swagger.json HTTP/1.1" 200 - - 2019-12-05 17:46:22,783 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:22] "GET /scientificcalculator/ui/images/favicon-32x32.png HTTP/1.1" 200 - - 2019-12-05 17:46:22,862 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:27] "GET /scientificcalculator/ui/images/throbber.gif HTTP/1.1" 200 - - 2019-12-05 17:46:27,092 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:30] "POST /scientificcalculator/src/driver/scientific_calc/ScientificCalc/factorial5 HTTP/1.1" 200 - - 2019-12-05 17:46:30,860 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+root - ERROR - invalid literal for int() with base 10: '5.5' - 2019-12-05 17:46:35,582 - 68 - scientific_calc - factorial - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\src\driver\scientific_calc.py
+Traceback (most recent call last):
+  File "C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\src\driver\scientific_calc.py", line 58, in factorial
+    cls.fact = int(fact_input)
+ValueError: invalid literal for int() with base 10: '5.5'
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:35] "POST /scientificcalculator/src/driver/scientific_calc/ScientificCalc/factorial5.5 HTTP/1.1" 200 - - 2019-12-05 17:46:35,584 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:44] "POST /scientificcalculator/src/driver/scientific_calc/ScientificCalc/factorial-7 HTTP/1.1" 200 - - 2019-12-05 17:46:44,494 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+root - ERROR - invalid literal for int() with base 10: 'string' - 2019-12-05 17:46:49,200 - 68 - scientific_calc - factorial - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\src\driver\scientific_calc.py
+Traceback (most recent call last):
+  File "C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\src\driver\scientific_calc.py", line 58, in factorial
+    cls.fact = int(fact_input)
+ValueError: invalid literal for int() with base 10: 'string'
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:46:49] "POST /scientificcalculator/src/driver/scientific_calc/ScientificCalc/factorialstring HTTP/1.1" 200 - - 2019-12-05 17:46:49,201 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO -  * Restarting with stat - 2019-12-05 17:53:51,333 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - WARNING -  * Debugger is active! - 2019-12-05 17:53:54,336 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO -  * Debugger PIN: 168-866-522 - 2019-12-05 17:53:54,349 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit) - 2019-12-05 17:53:54,421 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:53:56] "GET / HTTP/1.1" 200 - - 2019-12-05 17:53:56,449 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:53:58] "GET /factorial_req?fctorial=x_factorial HTTP/1.1" 404 - - 2019-12-05 17:53:58,333 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:54:23] "GET / HTTP/1.1" 200 - - 2019-12-05 17:54:23,222 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:54:24] "GET /factorial_request?fctorial=x_factorial HTTP/1.1" 200 - - 2019-12-05 17:54:24,580 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
+werkzeug - INFO - 127.0.0.1 - - [05/Dec/2019 17:54:28] "POST /factorial_response HTTP/1.1" 200 - - 2019-12-05 17:54:28,824 - 122 - _internal - _log - C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\lib\site-packages\werkzeug\_internal.py
