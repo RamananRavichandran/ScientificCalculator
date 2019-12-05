@@ -1,3 +1,17 @@
+<<<<<<< HEAD
+2019-12-03 12:12:26,667:ERROR:could not convert string to float: 'a'
+2019-12-03 12:12:26,668:ERROR:could not convert string to float: 'a'
+2019-12-03 12:12:26,670:ERROR:could not convert string to float: 'a'
+2019-12-03 12:12:26,671:ERROR:could not convert string to float: 'a'
+2019-12-03 12:12:26,700:ERROR:float division by zero
+=======
+<<<<<<< HEAD
+2019-11-29 15:50:56,423:ERROR:must be real number, not str
+=======
+<<<<<<< HEAD
+2019-11-28 16:21:50,071:ERROR:could not convert string to float: 'abc'
+=======
+root - ERROR - could not convert string to float: 'sss' - 2019-11-28 12:28:35,087 - 29 - scientific_calc - calculate_tanh - C:\Users\s.b.dhanapalan\PycharmProject\ScientificCalculator\src\driver\scientific_calc.py
 root - ERROR - could not convert string to float: 'string' - 2019-11-20 10:49:44,409 - 37 - ScientificCalc - var_initialization - C:\Users\sneha.govindharajan\PycharmProjects\Task\src\driver\ScientificCalc.py
 root - ERROR - could not convert string to float: 'string' - 2019-11-20 10:49:44,425 - 37 - ScientificCalc - var_initialization - C:\Users\sneha.govindharajan\PycharmProjects\Task\src\driver\ScientificCalc.py
 root - ERROR - could not convert string to float: 'string' - 2019-11-20 10:51:16,799 - 37 - ScientificCalc - var_initialization - C:\Users\sneha.govindharajan\PycharmProjects\Task\src\driver\ScientificCalc.py
@@ -12,3 +26,34 @@ root - ERROR - could not convert string to float: 'string' - 2019-11-20 11:19:17
 root - ERROR - could not convert string to float: 'string' - 2019-11-20 11:19:17,791 - 42 - ScientificCalc - var_initialization - C:\Users\sneha.govindharajan\PycharmProjects\Task\src\driver\ScientificCalc.py
 root - ERROR - invalid literal for int() with base 10: 'string' - 2019-11-20 17:29:21,652 - 43 - scientific_calc - var_initialization - C:\Users\sneha.govindharajan\PycharmProjects\Task\src\driver\scientific_calc.py
 root - ERROR - could not convert string to float: 'string' - 2019-11-20 17:29:21,655 - 43 - scientific_calc - var_initialization - C:\Users\sneha.govindharajan\PycharmProjects\Task\src\driver\scientific_calc.py
+root - ERROR - could not convert string to float: 'accenture' - 2019-12-02 11:51:32,720 - 31 - scientific_calc - cal_power_ten - C:\Users\p.venu.gopal\PycharmProject\ScientificCalculator\src\driver\scientific_calc.py
+root - ERROR - could not convert string to float: 'string' - 2019-12-02 11:51:32,726 - 99 - scientific_calc - sin_func - C:\Users\p.venu.gopal\PycharmProject\ScientificCalculator\src\driver\scientific_calc.py
+Traceback (most recent call last):
+  File "C:\Users\p.venu.gopal\PycharmProject\ScientificCalculator\src\driver\scientific_calc.py", line 96, in sin_func
+    cls.value = math.sin(float(angle))
+ValueError: could not convert string to float: 'string'
+root - ERROR - <class 'ValueError'> - 2019-12-02 11:51:32,747 - 116 - scientific_calc - cube_root - C:\Users\p.venu.gopal\PycharmProject\ScientificCalculator\src\driver\scientific_calc.py
+root - ERROR - could not convert string to float: 'accenture' - 2019-12-02 11:51:32,751 - 43 - scientific_calc - exponential_func - C:\Users\p.venu.gopal\PycharmProject\ScientificCalculator\src\driver\scientific_calc.py
+Traceback (most recent call last):
+  File "C:\Users\p.venu.gopal\PycharmProject\ScientificCalculator\src\driver\scientific_calc.py", line 38, in exponential_func
+    cls.power = float(power_value)
+ValueError: could not convert string to float: 'accenture'
+root - ERROR - <class 'ValueError'> - 2019-12-02 11:51:32,788 - 130 - scientific_calc - square_root - C:\Users\p.venu.gopal\PycharmProject\ScientificCalculator\src\driver\scientific_calc.py
+root - ERROR - could not convert string to float: 'sss' - 2019-12-02 11:51:32,793 - 89 - scientific_calc - calculate_tanh - C:\Users\p.venu.gopal\PycharmProject\ScientificCalculator\src\driver\scientific_calc.py
+Traceback (most recent call last):
+  File "C:\Users\p.venu.gopal\PycharmProject\ScientificCalculator\src\driver\scientific_calc.py", line 82, in calculate_tanh
+    cls.angle = float(cls.angle)
+ValueError: could not convert string to float: 'sss'
+root - ERROR - invalid literal for int() with base 10: 'string' - 2019-12-02 11:51:32,797 - 74 - scientific_calc - var_initialization - C:\Users\p.venu.gopal\PycharmProject\ScientificCalculator\src\driver\scientific_calc.py
+Traceback (most recent call last):
+  File "C:\Users\p.venu.gopal\PycharmProject\ScientificCalculator\src\driver\scientific_calc.py", line 71, in var_initialization
+    power = int(power_no)
+ValueError: invalid literal for int() with base 10: 'string'
+root - ERROR - could not convert string to float: 'string' - 2019-12-02 11:51:32,802 - 74 - scientific_calc - var_initialization - C:\Users\p.venu.gopal\PycharmProject\ScientificCalculator\src\driver\scientific_calc.py
+Traceback (most recent call last):
+  File "C:\Users\p.venu.gopal\PycharmProject\ScientificCalculator\src\driver\scientific_calc.py", line 70, in var_initialization
+    base = float(base_no)
+ValueError: could not convert string to float: 'string'
+>>>>>>> 83b61c3510870c060d81b8618be93ad166c8b207
+>>>>>>> 80d716df37f1708006fe26c5251078a55fd3fe93
+>>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0

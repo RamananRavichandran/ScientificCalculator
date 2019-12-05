@@ -1,4 +1,4 @@
-"""This module is used to create the object for the test class and calls it"""
+"""main function for testing"""
 from test.driver.scientific_calc_test import ScientificCalcTest
 import unittest
 

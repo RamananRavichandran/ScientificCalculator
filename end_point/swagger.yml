@@ -1,8 +1,8 @@
 swagger: "2.0"
 info:
-  description: This is the page to do Scientific Operations
+  description: This is the swagger file for scientific calculator
   version: "1.0.0"
-  title: Scientific Calculator
+  title: Swagger ReST Article
 consumes:
   - application/json
 produces:
@@ -10,28 +10,7 @@ produces:
 
 basePath: /scientificcalculator
 paths:
- /src/driver/scientific_calc/ScientificCalc/cal_power_ten/{pow_value}:
-    post:
-      operationId: src.driver.scientific_calc.ScientificCalc.cal_power_ten
-      tags:
-        - ten_power_y
-      summary: Calculate value for ten power x
-      description: Calculate value for ten power x
-      parameters:
-        - name: pow_value
-          in: path
-          description: Provides x value
-          type: integer
-          required: true
-      responses:
-        200:
-          description: Gives value for ten power x
-          schema:
-            properties:
-              output:
-                type: integer
-
- /src/diver/scientific_calc/ScientificCalc/exponential_func{power_value}:
+  /src/diver/scientific_calc/ScientificCalc/exponential_func{power_value}:
     post:
       operationId: src.driver.scientific_calc.ScientificCalc.exponential_func
       tags:
@@ -51,7 +30,8 @@ paths:
             properties:
               output:
                 type: number
- /src/driver/scientific_calc/ScientificCalc/var_initialization/{base_no},{power_no}:
+
+  /src/driver/scientific_calc/ScientificCalc/var_initialization{base_no},{power_no}:
     post:
       operationId: src.driver.scientific_calc.ScientificCalc.var_initialization
       tags:
@@ -76,4 +56,365 @@ paths:
             properties:
               output:
                 type: integer
+  /src/driver/scientific_calc/ScientificCalc/calculate_tanh{angle}:
+      post:
+        operationId: src.driver.scientific_calc.ScientificCalc.calculate_tanh
+        tags:
+          - tanh
+        summary: calculate value for tanh
+        description: calculate value for tanh
+        parameters:
+          - name: angle
+            in: path
+            type: string
+            description: provide angle value
+            required: true
+        responses:
+          200:
+            description: gives value for tanh
+            schema:
+              type: number
+              items:
+                properties:
+                  angle:
+                    type: integer
+  /src/driver/scientific_calc/ScientificCalc/sin_func{angle}:
+   post:
+     operationId: src.driver.scientific_calc.ScientificCalc.sin_func
+     tags:
+       - sin
+     summary: calculate value for sin
+     description: calculate value for sin
+     parameters:
+       - name: angle
+         in: path
+         type: string
+         description: provide angle value
+         required: true
+     responses:
+       200:
+         description: give value for angle
+         schema:
+           type: number
+           items:
+             properties:
+               angle:
+                 type: integer
 
+  /src/driver/scientific_calc/ScientificCalc/cube_root{n_value}:
+   post:
+     operationId: src.driver.scientific_calc.ScientificCalc.cube_root
+     tags:
+       - cube_root
+     summary: Read a number to find cube root of a number
+     description: Read a number to find cube root of a number
+     parameters:
+       - name: n_value
+         in: path
+         type: string
+         description: provide a number
+         required: true
+     responses:
+       200:
+         description: Gives the value of cube root of number
+         schema:
+           type: number
+           items:
+             properties:
+                number:
+                  type: integer
+
+  /src/driver/scientific_calc/ScientificCalc/square_root{x_value}:
+    post:
+      operationId: src.driver.scientific_calc.ScientificCalc.square_root
+      tags:
+        - square_root
+      summary: Read a number to find square root of a number
+      description: Read a number to find square root of a number
+      parameters:
+        - name: x_value
+          in: path
+          type: string
+          description: provide a number
+          required: true
+      responses:
+        200:
+          description: Gives the value of square root of number
+          schema:
+            type: number
+            items:
+              properties:
+                number:
+                  type: integer
+  /src/driver/scientific_calc/ScientificCalc/rad{angle}:
+    post:
+      operationId: src.driver.scientific_calc.ScientificCalc.rad
+      tags:
+        - radian
+      summary: Read a number to find radians
+      description: Read a number
+      parameters:
+        - name: angle
+          in: path
+          type: string
+          description: provide a number
+          required: true
+      responses:
+        200:
+          description: Gives the value of rad of number
+          schema:
+            items:
+              properties:
+                angle:
+                  type: integer
+  /src/driver/scientific_calc/ScientificCalc/one_by_x{number}:
+     post:
+       operationId: src.driver.scientific_calc.ScientificCalc.one_by_x
+       tags:
+         - one_by_x
+       summary: Read a number to find one by x of a number
+       description: Read a number to find one by x of a number
+       parameters:
+         - name: number
+           in: path
+           type: string
+           description: provide a number
+           required: true
+       responses:
+         200:
+           description: Gives the value of one by x of number
+           schema:
+             type: number
+             items:
+               properties:
+                 number:
+                   type: integer
+  /src/driver/scientific_calc/ScientificCalc/calculate_cos{angle}:
+   post:
+     operationId: src.driver.scientific_calc.ScientificCalc.calculate_cos
+     tags:
+       - cos
+     summary: Calculate value for cos
+     description: Calculate value for cos
+     parameters:
+       - name: angle
+         in: path
+         description: Provides x value
+         type: string
+         required: true
+     responses:
+       200:
+         description: Gives value for cos
+         schema:
+           type: number
+           items:
+               properties:
+                 number:
+                   type: integer
+
+  /src/driver/ScientificCalc/ScientificCalc/tan_fun{tan_angle}:
+   post:
+     operationId: src.driver.scientific_calc.ScientificCalc.tan_fun
+     tags:
+       - tangent
+     summary: Read a number to find tanh calculation
+     description: Read a number
+     parameters:
+       - name: tan_angle
+         in: path
+         type: string
+         description: provide a number
+         required: true
+     responses:
+       200:
+         description: Gives the value of tan of number
+         schema:
+           type: number
+           items:
+             properties:
+               number:
+                 type: integer
+
+  /src/driver/scientific_calc/ScientificCalc/cal_power_ten{pow_value}:
+    post:
+      operationId: src.driver.scientific_calc.ScientificCalc.cal_power_ten
+      tags:
+        - ten_power_y
+      summary: Calculate value for ten power x
+      description: Calculate value for ten power x
+      parameters:
+        - name: pow_value
+          in: path
+          description: Provides x value
+          type: integer
+          required: true
+      responses:
+        200:
+          description: Gives value for ten power x
+          schema:
+            properties:
+              output:
+                type: integer
+
+  /src/driver/scientific_calc/ScientificCalc/logarithm{number1}:
+    post:
+      operationId: src.driver.scientific_calc.ScientificCalc.logarithm
+      tags:
+        - logarithm
+      summary: Read a number to find log10 calculation
+      description: Read a number
+      parameters:
+        - name: number1
+          in: path
+          type: integer
+          required: true
+      responses:
+        200:
+          description: Gives value for logarithm
+          schema:
+            properties:
+              output:
+                type: integer
+  /src/driver/scientific_calc/ScientificCalc/sine_h{x_value}:
+    post:
+      operationId: src.driver.scientific_calc.ScientificCalc.sine_h
+      tags:
+        - sineh
+      summary: Read a number to find tanh calculation
+      description: Read a number
+      parameters:
+        - name: x_value
+          in: path
+          type: string
+          description: provide a number
+          required: true
+      responses:
+        200:
+          description: Gives the value of sinh of number
+          schema:
+            type: number
+            items:
+              properties:
+                x_value:
+                  type: integer
+  /src/driver/scientific_calc/ScientificCalc/trig_cosh{number}:
+    post:
+      operationId: src.driver.scientific_calc.ScientificCalc.trig_cosh
+      tags:
+      - cosh
+      summary: Read a number to find cosh calculation
+      description: Read a number
+      parameters:
+      - name: number
+        in: path
+        type: string
+        description: provide a number
+        required: true
+      responses:
+        200:
+          description: Gives the value of cosh of number
+          schema:
+            type: number
+            items:
+              properties:
+                number:
+                  type: string
+  /src/driver/scientific_calc/ScientificCalc/ln_func{x_value}:
+    post:
+      operationId: src.driver.scientific_calc.ScientificCalc.ln_func
+      tags:
+        - ln
+      summary: Read a number to find ln calculation
+      description: Read a number
+      parameters:
+        - name: x_value
+          in: path
+          type: string
+          description:  provide a number
+          required: true
+      responses:
+        200:
+          description: Gives the value of ln of number
+          schema:
+            type: number
+            items:
+              properties:
+                angle:
+                  type: string
+
+  /src/driver/scientific_calc/ScientificCalc/addition{list_add}:
+    post:
+      operationId: src.driver.scientific_calc.ScientificCalc.addition
+      tags:
+        - addition
+      summary: Read numbers to perform addition operation
+      description: Read numbers
+      parameters:
+        - name: list_add
+          in: path
+          type: array
+          items:
+            type: string
+          required: true
+      responses:
+        200:
+          description: Successfully performed addition
+          schema:
+            type: integer
+  /src/driver/scientific_calc/ScientificCalc/subtraction{list_sub}:
+      post:
+        operationId: src.driver.scientific_calc.ScientificCalc.subtraction
+        tags:
+          - subtraction
+        summary: Read numbers to perform subtraction operation
+        description: Read numbers
+        parameters:
+          - name: list_sub
+            in: path
+            type: array
+            items:
+              type: string
+            required: true
+        responses:
+          200:
+            description: Successfully performed subtraction
+            schema:
+              type: integer
+  /src/driver/scientific_calc/ScientificCalc/multiplication{list_mul}:
+      post:
+        operationId: src.driver.scientific_calc.ScientificCalc.multiplication
+        tags:
+          - multiplication
+        summary: Read numbers to perform multiplication operation
+        description: Read numbers
+        parameters:
+          - name: list_mul
+            in: path
+            type: array
+            items:
+              type: string
+            required: true
+        responses:
+          200:
+            description: Successfully performed multiplication
+            schema:
+              type: integer
+  /src/driver/scientific_calc/ScientificCalc/division{list_div}:
+      post:
+        operationId: src.driver.scientific_calc.ScientificCalc.division
+        tags:
+          - division
+        summary: Read numbers to perform division operation
+        description: Read numbers
+        parameters:
+          - name: list_div
+            in: path
+            type: array
+            items:
+              type: string
+            required: true
+        responses:
+          200:
+            description: Successfully performed division
+            schema:
+              type: integer

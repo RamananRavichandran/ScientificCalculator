@@ -1,6 +1,4 @@
-"""This module is the main method which call the main function main method"""
-from src.main.main import main
+from src.main import main
 
-
-if __name__ == '__main__':
-    main()
+if __name__ == "__main__":
+    main.main()
