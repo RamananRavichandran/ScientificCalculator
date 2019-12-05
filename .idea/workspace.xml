@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cd4a230f-701f-4b51-90ce-ebf0db8fecbd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScientificCalculatorLog.log" beforeDir="false" afterPath="$PROJECT_DIR$/ScientificCalculatorLog.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -194,14 +193,22 @@
       <option name="project" value="LOCAL" />
       <updated>1575353857286</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Scientific Calculator sc">
+      <created>1575522462876</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575522462885</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sine_h" />
     <MESSAGE value="sine_h commit" />
     <MESSAGE value="Scientific Calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Scientific Calculator" />
+    <MESSAGE value="Scientific Calculator sc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scientific Calculator sc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
