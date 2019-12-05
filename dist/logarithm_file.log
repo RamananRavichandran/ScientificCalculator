@@ -1,0 +1,9 @@
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 386-461-806
+werkzeug - INFO -  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+werkzeug - INFO - 127.0.0.1 - - [29/Nov/2019 15:12:45] "GET /api/ui/ HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [29/Nov/2019 15:12:49] "GET /api/swagger.json HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [29/Nov/2019 15:13:00] "GET /api/src/driver/ScientificCalc/ScientificCalc100000 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [29/Nov/2019 15:13:08] "GET /api/src/driver/ScientificCalc/ScientificCalc-10 HTTP/1.1" 404 -
+werkzeug - INFO - 127.0.0.1 - - [29/Nov/2019 15:13:20] "GET /api/src/driver/ScientificCalc/ScientificCalc1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [29/Nov/2019 15:13:25] "GET /api/src/driver/ScientificCalc/ScientificCalc500 HTTP/1.1" 200 -
