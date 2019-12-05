@@ -6,7 +6,7 @@ from flask import (
 from src.driver.scientific_calc import ScientificCalc
 
 # Create the application instance
-app = Flask(__name__, template_folder="static")
+app = Flask(__name__, template_folder="templates")
 
 
 # Create a URL route in our application for "/"
