@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b82e28f-b82c-45dd-b33e-06b9d77e3447" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/static/home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/request.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/response.css" afterDir="false" />
+    <list default="true" id="56bdf405-c504-4616-a6b8-9397f460fc90" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/templates/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/tangent_req.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ScientificCalculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ScientificCalculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ScientificCalculatorLog.log" beforeDir="false" afterPath="$PROJECT_DIR$/ScientificCalculatorLog.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/x_power_y_req.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/x_power_y_req.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/x_power_y_res.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/x_power_y_res.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/x_power_y_req.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/x_power_y_res.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/tangent_res.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +38,14 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\novin.patrick\PycharmProjects\ScientificCalculator\templates" />
+      <recent name="C:\Users\novin.patrick\PycharmProjects\ScientificCalculator\static" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -143,6 +153,17 @@
     </task>
     <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="final commit" />

@@ -6,7 +6,7 @@ from flask import (
 from src.driver.scientific_calc import ScientificCalc
 
 # Create the application instance
-app = Flask(__name__, template_folder="static")
+app = Flask(__name__, template_folder="templates")
 
 
 # Create a URL route in our application for "/"
@@ -16,18 +16,17 @@ def home():
     return render_template("home.html")
 
 
-@app.route('/x_power_y_request')
-def x_power_y_request():
-    return render_template("x_power_y_req.html")
+@app.route('/tangent_req')
+def tangent_req():
+    return render_template("tangent_req.html")
 
 
-@app.route('/x_power_y_response', methods=["POST"])
-def x_power_y_response():
-    power_value = request.form.get("x_value")
-    base_value = request.form.get("y_value")
+@app.route('/tangent_res', methods=["POST"])
+def tangent_res():
+    angle_value = request.form.get("tan_value")
     flask_obj = ScientificCalc()
-    x_power_y_value = flask_obj.var_initialization(power_value, base_value)
-    return render_template("x_power_y_res.html", result=x_power_y_value)
+    tan_angle_value = flask_obj.tan_fun(angle_value)
+    return render_template("tangent_res.html", result=tan_angle_value)
 
 
 # If we're running in stand alone mode, run the application
