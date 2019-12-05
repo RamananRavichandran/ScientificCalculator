@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request
 from src.driver.scientific_calc import ScientificCalc
 
-app = Flask(__name__,template_folder="static")
+app = Flask(__name__,template_folder="templates")
 
 @app.route("/")
 def home():
