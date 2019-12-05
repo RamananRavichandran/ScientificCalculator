@@ -1,5 +1,4 @@
-"""This module is used to write main function"""
-"""main.py to call the unittest case Class"""
+"""main function for testing"""
 from test.driver.scientific_calc_test import ScientificCalcTest
 import unittest
 

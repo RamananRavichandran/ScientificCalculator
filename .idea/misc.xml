@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< Updated upstream
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (ScientificCalculator) (3)" project-jdk-type="Python SDK" />
-=======
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (ScientificCalculator)" project-jdk-type="Python SDK" />
->>>>>>> Stashed changes
+<<<<<<< HEAD
+  <component name="PyCharmProfessionalAdvertiser">
+    <option name="shown" value="true" />
+  </component>
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (ScientificCalculator) (2)" project-jdk-type="Python SDK" />
+  <component name="PyCharmProfessionalAdvertiser">
+    <option name="shown" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (ScientificCalculator) (3)" project-jdk-type="Python SDK" />
+>>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
+=======
+>>>>>>> d130c38b5790f23715f75e9664db833a2266946b
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
+>>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0
 </project>

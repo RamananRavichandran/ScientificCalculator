@@ -1,3 +1,4 @@
+antlr4-python2-runtime ==  4.7.2
 astroid==2.3.3
 atomicwrites==1.3.0
 attrs==19.3.0
@@ -5,22 +6,21 @@ certifi==2019.9.11
 chardet==3.0.4
 Click==7.0
 clickclick==1.2.2
-connexion==2.4.0
 colorama==0.4.1
+configparser==4.0.2
+contextlib2   ==  0.6.0.post1
 connexion==2.4.0
 coverage==4.5.4
+Django  ==  1.11.16
+Django   ==  1.11.16
+djangorestframework   == 3.9.0
+enum34==1.1.6
+futures==3.3.0
 Flask==1.1.1
+functools32   ==  3.2.3.post2
 idna==2.8
 importlib-metadata==0.23
 inflection==0.3.1
-itsdangerous==1.1.0
-Jinja2==2.10.3
-jsonschema==3.2.0
-MarkupSafe==1.1.1
-more-itertools==7.2.0
-openapi-spec-validator==0.2.8
-pip==19.0.3
-pyrsistent==0.15.5
 isort==4.3.21
 itsdangerous==1.1.0
 Jinja2==2.10.3
@@ -30,26 +30,23 @@ MarkupSafe==1.1.1
 mccabe==0.6.1
 more-itertools==7.2.0
 openapi-spec-validator==0.2.8
-packaging==19.2
 pip==19.0.3
-pluggy==0.13.0
+packaging==19.2
 py==1.8.0
 pylint==2.4.4
 pyparsing==2.4.5
 pyrsistent==0.15.5
-pytest==5.2.2
 pytest-cov==2.8.1
 PyYAML==5.1.2
 requests==2.22.0
 setuptools==40.8.0
 six==1.13.0
 swagger-ui-bundle==0.0.6
-urllib3==1.25.7
-Werkzeug==0.16.0
-zipp==0.6.0
+singledispatch==3.4.0.3
 typed-ast==1.4.0
 urllib3==1.25.7
 virtualenv==16.7.7
+wheel==0.33.6
 wcwidth==0.1.7
 Werkzeug==0.16.0
 wrapt==1.11.2

@@ -1,0 +1,12 @@
+__main__.py
+setup.py
+mypackage.egg-info/PKG-INFO
+mypackage.egg-info/SOURCES.txt
+mypackage.egg-info/dependency_links.txt
+mypackage.egg-info/entry_points.txt
+mypackage.egg-info/top_level.txt
+src/__init__.py
+src/cuberoot/__init__.py
+src/cuberoot/feature.py
+src/main/__init__.py
+src/main/main.py
