@@ -4,17 +4,19 @@ from flask import (
     request
 )
 from src.driver.scientific_calc import ScientificCalc
+
 # Create the application instance
 app = Flask(__name__, template_folder="static")
 
 
 # Create a URL route in our application for "/"
-# @app.route('/')
-# def home():
-#     """directed to home page"""
-#     return render_template("x_power_y_req.html")
-
 @app.route('/')
+def home():
+    """directed to home page"""
+    return render_template("home.html")
+
+
+@app.route('/x_power_y_request')
 def x_power_y_request():
     return render_template("x_power_y_req.html")
 

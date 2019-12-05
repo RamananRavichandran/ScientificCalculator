@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b82e28f-b82c-45dd-b33e-06b9d77e3447" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/x_power_y_req.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/x_power_y_res.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/request.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/response.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ScientificCalculatorLog.log" beforeDir="false" afterPath="$PROJECT_DIR$/ScientificCalculatorLog.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/driver/scientific_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/driver/scientific_calc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/x_power_y_ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/x_power_y_req.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/x_power_y_req.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/x_power_y_res.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/x_power_y_res.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -133,12 +134,20 @@
       <option name="project" value="LOCAL" />
       <updated>1575456144516</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ui commit">
+      <created>1575524212267</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575524212267</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="final commit" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="ui commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="ui commit" />
   </component>
 </project>
