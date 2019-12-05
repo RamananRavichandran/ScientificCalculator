@@ -1,12 +1,9 @@
-from distutils import errors
-import requests
-from flask import Flask, render_template, request,redirect,url_for
-from django.contrib.sites import requests
+from flask import Flask, render_template, request
 from flask import (
     Flask,
     render_template,
     request)
-
+from src.driver.scientific_calc import ScientificCalc
 # Create the application instance
 app = Flask(__name__, template_folder="static")
 
@@ -19,10 +16,9 @@ def e_power_x_req():
 
 @app.route('/e_power_x_res', methods=['POST'])
 def e_power_x_res():
-        power_value=request.form.get('input')
-        power=float(power_value)
-        exp_value = 2.71828182846
-        result=exp_value**power
+        power_value=request.form['input']
+        e_power_x_obj=ScientificCalc()
+        result=e_power_x_obj.exponential_func(power_value)
         return render_template('e_power_x_res.html',result=result)
     # If we're running in stand alone mode, run the application
 if __name__ == '__main__':
