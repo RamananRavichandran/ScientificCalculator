@@ -70,6 +70,7 @@ class ScientificCalc:
     @classmethod
     def var_initialization(cls, base_no, power_no):
         """initializing the variables"""
+        print(base_no, power_no)
         try:
             base = float(base_no)
             power = int(power_no)
