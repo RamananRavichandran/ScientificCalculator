@@ -1,15 +1,503 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="b07c65d7-d032-4c49-999c-142b6822e068" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ScientificCalculatorLog.log" beforeDir="false" afterPath="$PROJECT_DIR$/ScientificCalculatorLog.log" afterDir="false" />
+    </list>
+=======
+<<<<<<< HEAD
+    <list default="true" id="31a5189b-810e-418a-8c1f-140b6e52decc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/__main__.py" beforeDir="false" />
+    </list>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <list default="true" id="efe7885f-e9e1-4629-b1df-15a22625c302" name="Default Changelist" comment="" />
+=======
+<<<<<<< HEAD
+    <list default="true" id="6e87cb0b-7010-49b2-81a3-7735dcaa3fc6" name="Default Changelist" comment="" />
+=======
+<<<<<<< HEAD
+    <list default="true" id="d204fc7b-43fe-4759-b55f-c00355827a55" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="9960d9b6-497a-4633-9bbf-a82547f3bf78" name="Default Changelist" comment="">
+=======
     <list default="true" id="cd4a230f-701f-4b51-90ce-ebf0db8fecbd" name="Default Changelist" comment="">
+<<<<<<< HEAD
+=======
+      <change afterPath="$PROJECT_DIR$/.coverage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/SciCalc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-dev.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScientificCalculator.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScientificCalculator.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScientificCalculator.egg-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScientificCalculator.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/src/cuberoot/feature.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/lib/test/driver/scientific_calc_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cos_egg.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cos_egg.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cos_egg.egg-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cos_egg.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cube_root.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cube_root.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cube_root.egg-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cube_root.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/ScientificCalculator-1.0-py3.7.egg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/ScientificCalculator-1.10-py3.7.egg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/ScientificCalculator-1.2-py3.7.egg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/ScientificCalculator-1.3-py3.7.egg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/ScientificCalculator-1.4-py3.7.egg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/ScientificCalculator-1.6-py2.7.egg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/ScientificCalculator-1.7-py3.7.egg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/ScientificCalculator-1.8-py3.7.egg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/ScientificCalculator-1.9-py3.7.egg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/confile.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/cos_egg-1.0-py3.7.egg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/function_tanh-1.0-py3.7.egg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/logarithm_egg-1.0.1-py2.7.egg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/logarithm_file.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/mypackage-1.0-py3.7.egg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/pkg-1.0.2-py2.7.egg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sqtest-1.0-py2.7.egg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/tan_egg-1.0.0-py3.7.egg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/end_point/swagger.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_tanh.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_tanh.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_tanh.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_tanh.egg-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_tanh.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logarithm_egg.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logarithm_egg.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logarithm_egg.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logarithm_egg.egg-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logarithm_egg.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one_by_x.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one_by_x.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one_by_x.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one_by_x.egg-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one_by_x.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg.egg-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/driver/.coverage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/method_not_found_exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/unnecessary_parameter_exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tan_egg.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tan_egg.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tan_egg.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tan_egg.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/driver/ScientificCalculatorLog.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/driver/scientific_calc_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/main/ScientificCalculatorLog.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.10.3.dist-info/LICENSE.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.10.3.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.10.3.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.10.3.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Jinja2-2.10.3.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-1.1.1.dist-info/LICENSE.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-1.1.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-1.1.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-1.1.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/MarkupSafe-1.1.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-0.16.0.dist-info/LICENSE.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-0.16.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-0.16.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Werkzeug-0.16.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/_yaml.cp37-win32.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/certifi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/certifi/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/certifi/cacert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-3.0.4.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-3.0.4.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-3.0.4.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-3.0.4.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-3.0.4.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-3.0.4.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chardet-3.0.4.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/_bashcomplete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/_termui_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/_textwrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/_unicodefun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/_winconsole.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/formatting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/globals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/termui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/click/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/clickclick/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/clickclick/console.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion-2.4.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion-2.4.0.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion-2.4.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion-2.4.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion-2.4.0.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion-2.4.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/apis/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/apis/abstract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/apis/aiohttp_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/apis/flask_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/apis/flask_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/apps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/apps/abstract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/apps/aiohttp_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/apps/flask_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/cli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/decorators/coroutine_wrappers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/decorators/decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/decorators/metrics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/decorators/parameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/decorators/produces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/decorators/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/decorators/security.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/decorators/uri_parsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/decorators/validation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/http_facts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/json_schema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/lifecycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/mock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/operations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/operations/abstract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/operations/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/operations/openapi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/operations/secure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/operations/swagger2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/options.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/resolver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/spec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/connexion/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/importlib_metadata/tests/data/example-21.12-py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema-3.2.0.dist-info/COPYING" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema-3.2.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema-3.2.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema-3.2.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema-3.2.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema-3.2.0.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jsonschema-3.2.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/markupsafe/_speedups.cp37-win32.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/more_itertools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/more_itertools/more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/more_itertools/more.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/more_itertools/recipes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/more_itertools/recipes.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/openapi_spec_validator-0.2.8.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/openapi_spec_validator-0.2.8.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/openapi_spec_validator-0.2.8.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/openapi_spec_validator-0.2.8.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/openapi_spec_validator-0.2.8.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/t32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/t64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/w32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/w64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent-0.15.6-py3.7.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent-0.15.6-py3.7.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent-0.15.6-py3.7.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent-0.15.6-py3.7.egg-info/installed-files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent-0.15.6-py3.7.egg-info/requires.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyrsistent-0.15.6-py3.7.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/adapters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/certs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests/packages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/swagger_ui_bundle/vendor/swagger-ui-2.2.10/fonts/DroidSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/swagger_ui_bundle/vendor/swagger-ui-2.2.10/fonts/DroidSans.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/swagger_ui_bundle/vendor/swagger-ui-2.2.10/images/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/swagger_ui_bundle/vendor/swagger-ui-2.2.10/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/swagger_ui_bundle/vendor/swagger-ui-2.2.10/images/logo_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/swagger_ui_bundle/vendor/swagger-ui-2.2.10/images/pet_store_api.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/swagger_ui_bundle/vendor/swagger-ui-2.2.10/images/throbber.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/swagger_ui_bundle/vendor/swagger-ui-2.2.10/images/wordnik_api.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/werkzeug/debug/shared/ubuntu.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/chardetect.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/connexion.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-3.7.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/flask.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/jsonschema.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/openapi-spec-validator.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pip3.7.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pip3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ScientificCalculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ScientificCalculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+>>>>>>> d130c38b5790f23715f75e9664db833a2266946b
+>>>>>>> dbed602d80a2356eab4168385c3d224707e8414c
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+<<<<<<< HEAD
+>>>>>>> 438acfb6e97d5f76b65414f2ab572aa7df57036e
+>>>>>>> 595387508ebadcc6158a63afa14092031273379c
+>>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
+=======
+>>>>>>> d130c38b5790f23715f75e9664db833a2266946b
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
+>>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  <component name="FUSProjectUsageTrigger">
+    <session id="1260254744">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.103" value="1" />
+          <entry key="project.open.time.121" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.70" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="log" value="3" />
+          <entry key="py" value="18" />
+          <entry key="requirements" value="2" />
+          <entry key="swagger" value="1" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="18" />
+          <entry key="YAML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="35" />
+          <entry key="py" value="647" />
+          <entry key="requirements" value="72" />
+          <entry key="swagger" value="27" />
+          <entry key="txt" value="21" />
+          <entry key="yml" value="66" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="128" />
+          <entry key="Python" value="647" />
+          <entry key="YAML" value="93" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.checkout.remote" value="1" />
+          <entry key="git.branch.merge" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/main/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <folding>
+                <element signature="e#95#158#0" expanded="true" />
+              </folding>
+>>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/src/driver/scientific_calc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+=======
+        <entry file="file://$PROJECT_DIR$/setup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+>>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/src/main/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+              <folding>
+                <element signature="e#46#61#0" expanded="true" />
+              </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/ReadMe.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="153">
+                <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              </first_editor>
+              <second_editor />
+>>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/driver/scientific_calc_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="63" lean-forward="true" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
+              <folding>
+                <element signature="e#54#69#0" expanded="true" />
+              </folding>
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/end_point/swagger.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+>>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/requirements">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+=======
+        <entry file="file://$PROJECT_DIR$/ScientificCalculatorLog.log">
+          <provider selected="true" editor-type-id="LogFileEditorProvider">
+            <state relative-caret-position="283">
+              <caret line="440" column="8" lean-forward="true" selection-start-line="440" selection-start-column="8" selection-end-line="440" selection-end-column="8" />
+>>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/__main__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+=======
+        <entry file="file://$PROJECT_DIR$/build/lib/src/driver/scientific_calc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-737" />
+>>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/ScientificCalculatorLog.log">
+=======
+        <entry file="file://$PROJECT_DIR$/build/lib/src/exception/unnecessary_parameter_exception.py">
+>>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/endpoint/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/endpoint/swagger.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+=======
+        <entry file="file://$PROJECT_DIR$/test/main/ScientificCalculatorLog.log">
+          <provider selected="true" editor-type-id="LogFileEditorProvider" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/driver/scientific_calc_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+>>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+<<<<<<< HEAD
+=======
+>>>>>>> 438acfb6e97d5f76b65414f2ab572aa7df57036e
+>>>>>>> 595387508ebadcc6158a63afa14092031273379c
+>>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
+=======
+>>>>>>> d130c38b5790f23715f75e9664db833a2266946b
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
+>>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -18,11 +506,84 @@
     </option>
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+=======
+<<<<<<< HEAD
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/dev" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="x-power-y_11729554" />
+>>>>>>> 595387508ebadcc6158a63afa14092031273379c
+      </map>
+    </option>
+=======
+>>>>>>> d130c38b5790f23715f75e9664db833a2266946b
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
+>>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
+<<<<<<< HEAD
+        <option value="C:\Users\abinaya.udaya.kumar\PycharmProjects\ScientificCalculator\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TozpKLHJqLOptT3vnKm1OA4fc4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+=======
+<<<<<<< HEAD
+        <option value="C:\Users\ramanan.ravichandran\PycharmProjects\ScientificCalculator\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TryikfgcbmLdZ0UreAnkvcdlGl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+=======
         <option value="C:\Users\nivetha.samraj\PycharmProjects\ScientificCalculator\.idea" />
       </set>
     </option>
@@ -31,8 +592,209 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+<<<<<<< HEAD
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+<<<<<<< HEAD
+      <recent name="C:\Users\ramanan.ravichandran\PycharmProjects\ScientificCalculator\venv" />
+      <recent name="C:\Users\ramanan.ravichandran\PycharmProjects\ScientificCalculator" />
+    </key>
+=======
+      <recent name="C:\Users\s.b.dhanapalan\PycharmProject\ScientificCalculator" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\s.b.dhanapalan\PycharmProject\ScientificCalculator\src" />
+=======
+        <option value="C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TonM9MfCTvGMoY8WQQ5f8K3mnY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python_projects" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator" />
+=======
+>>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/endpoint/swagger.yml.py" />
+        <option value="$PROJECT_DIR$/endpoint/swagger" />
+        <option value="$PROJECT_DIR$/requirements" />
+        <option value="$PROJECT_DIR$/__main__.py" />
+        <option value="$PROJECT_DIR$/test/driver/ScientificCalc_Test.py" />
+        <option value="$PROJECT_DIR$/src/driver/ScientificCalc.py" />
+        <option value="$PROJECT_DIR$/server.py" />
+        <option value="$PROJECT_DIR$/test/driver/scientific_calc_test.py" />
+        <option value="$PROJECT_DIR$/test/main/main.py" />
+        <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/src/driver/scientific_calc.py" />
+        <option value="$PROJECT_DIR$/endpoint/swagger.yml" />
+        <option value="$PROJECT_DIR$/src/main/main.py" />
+=======
+        <option value="$PROJECT_DIR$/end_point/swagger.yml" />
+        <option value="$PROJECT_DIR$/setup.py" />
+>>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+=======
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+>>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ScientificCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScientificCalculator" type="462c0819:PsiDirectoryNode" />
+            </path>
+<<<<<<< HEAD
+            <path>
+              <item name="ScientificCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScientificCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScientificCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScientificCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScientificCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScientificCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScientificCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="ScientificCalculator" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="ScientificCalculator" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="dist" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ScientificCalculator" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="endpoint" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ScientificCalculator" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ScientificCalculator" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="driver" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ScientificCalculator" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ScientificCalculator" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ScientificCalculator" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="driver" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+=======
+>>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+<<<<<<< HEAD
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\m.b.vijayaraghavan\PycharmProject\ScientificCalculator" />
+=======
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mypractice" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jayasree.suresh\PycharmProjects\ScientificCalculator" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jayasree.suresh\PycharmProjects\ScientificCalculator" />
+>>>>>>> 438acfb6e97d5f76b65414f2ab572aa7df57036e
+>>>>>>> 595387508ebadcc6158a63afa14092031273379c
+>>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
+    </key>
+=======
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+>>>>>>> d130c38b5790f23715f75e9664db833a2266946b
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
+  </component>
+>>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -45,8 +807,95 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+  <component name="RunManager" selected="Python tests.Unittests for scientific_calc_test.ScientificCalcTest">
+    <configuration name="Unittests for scientific_calc_test.ScientificCalcTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ScientificCalculator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/driver" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;scientific_calc_test.ScientificCalcTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for scientific_calc_test.ScientificCalcTest.test_mul_one_negative" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ScientificCalculator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/driver" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;scientific_calc_test.ScientificCalcTest.test_mul_one_negative&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for scientific_calc_test.ScientificCalcTest.test_mul_two_positive" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ScientificCalculator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/driver" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;scientific_calc_test.ScientificCalcTest.test_mul_two_positive&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for scientific_calc_test.ScientificCalcTest.test_sub_floatvalue" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ScientificCalculator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/driver" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;scientific_calc_test.ScientificCalcTest.test_sub_floatvalue&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in scientific_calc_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ScientificCalculator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/driver" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/driver/scientific_calc_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+=======
+<<<<<<< HEAD
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  <component name="RunManager" selected="Python.scientific_calc_test">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+<<<<<<< HEAD
+  <component name="RunManager" selected="Python tests.Unittests for scientific_calc_test.ScientificCalcTest">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
+=======
   <component name="RunManager" selected="Python.main">
     <configuration name="PRAC" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> d130c38b5790f23715f75e9664db833a2266946b
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
       <module name="ScientificCalculator" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,11 +903,26 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PRAC.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/main.py" />
+=======
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/main/main.py" />
+<<<<<<< HEAD
+=======
+>>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +931,56 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
+    <configuration name="scientific_calc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+<<<<<<< HEAD
+    <configuration name="scientific_calc_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/driver" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/driver/scientific_calc_test.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PRAC.py" />
+>>>>>>> d130c38b5790f23715f75e9664db833a2266946b
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+<<<<<<< HEAD
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.scientific_calc_test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.scientific_calc_test" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+=======
+    <configuration name="Unittests for scientific_calc_test.ScientificCalcTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+=======
     <configuration name="PRAC.PY" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> d130c38b5790f23715f75e9664db833a2266946b
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
       <module name="ScientificCalculator" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,6 +988,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/driver" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/driver/scientific_calc.py" />
+=======
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -143,17 +1063,35 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+>>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
+        <item itemvalue="Python tests.Unittests for scientific_calc_test.ScientificCalcTest" />
+        <item itemvalue="Python tests.Unittests in scientific_calc_test.py" />
+        <item itemvalue="Python tests.Unittests for scientific_calc_test.ScientificCalcTest.test_mul_two_positive" />
+        <item itemvalue="Python tests.Unittests for scientific_calc_test.ScientificCalcTest.test_mul_one_negative" />
+        <item itemvalue="Python tests.Unittests for scientific_calc_test.ScientificCalcTest.test_sub_floatvalue" />
+      </list>
+    </recent_temporary>
+  </component>
+=======
         <item itemvalue="Python.main" />
+<<<<<<< HEAD
+        <item itemvalue="Python.scientific_calc" />
+      </list>
+    </recent_temporary>
+  </component>
+=======
         <item itemvalue="Python.scientific_calc_test" />
         <item itemvalue="Python.PRAC" />
         <item itemvalue="Python.PRAC.PY" />
@@ -161,13 +1099,156 @@
       </list>
     </recent_temporary>
   </component>
+<<<<<<< HEAD
+=======
+>>>>>>> 595387508ebadcc6158a63afa14092031273379c
+>>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
+=======
+>>>>>>> d130c38b5790f23715f75e9664db833a2266946b
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
+>>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+      <changelist id="b07c65d7-d032-4c49-999c-142b6822e068" name="Default Changelist" comment="" />
+      <created>1574141417645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574141417645</updated>
+    </task>
+    <task id="LOCAL-00001" summary="calc">
+      <created>1574679347861</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574679347861</updated>
+    </task>
+    <task id="LOCAL-00002" summary="calc">
+      <created>1575025635987</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575025635987</updated>
+    </task>
+    <task id="LOCAL-00003" summary="calc">
+      <created>1575026918763</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575026918763</updated>
+    </task>
+    <task id="LOCAL-00004" summary="arithmetic functions">
+      <created>1575356888957</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575356888984</updated>
+=======
+<<<<<<< HEAD
+      <changelist id="31a5189b-810e-418a-8c1f-140b6e52decc" name="Default Changelist" comment="" />
+      <created>1574313114178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574313114178</updated>
+    </task>
+    <task id="LOCAL-00001" summary="ln_func">
+      <created>1575020746001</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575020746001</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ln_func">
+      <created>1575027837672</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575027837672</updated>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <changelist id="efe7885f-e9e1-4629-b1df-15a22625c302" name="Default Changelist" comment="" />
+      <created>1574223282412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574223282412</updated>
+    </task>
+    <task id="LOCAL-00001" summary="scientificcalculator">
+      <created>1575007706407</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575007706407</updated>
+    </task>
+    <task id="LOCAL-00002" summary="scientificcalculator">
+      <created>1575009313606</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575009313606</updated>
+    </task>
+    <task id="LOCAL-00003" summary="scientificcalculator">
+      <created>1575014102000</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575014102000</updated>
+    </task>
+    <task id="LOCAL-00004" summary="scientificcalculator">
+      <created>1575020731137</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575020731137</updated>
+>>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+<<<<<<< HEAD
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="calc" />
+    <MESSAGE value="arithmetic functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="arithmetic functions" />
+=======
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16145833" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.08852459" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" weight="0.083606556" />
+      <window_info anchor="bottom" id="Terminal" order="8" type="SLIDING" weight="0.42295083" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.29180327" />
+=======
+<<<<<<< HEAD
+      <changelist id="6e87cb0b-7010-49b2-81a3-7735dcaa3fc6" name="Default Changelist" comment="" />
+      <created>1574072588036</created>
+=======
       <changelist id="cd4a230f-701f-4b51-90ce-ebf0db8fecbd" name="Default Changelist" comment="" />
       <created>1574244125061</created>
+>>>>>>> d130c38b5790f23715f75e9664db833a2266946b
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574244125061</updated>
@@ -185,6 +1266,7 @@
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
       <updated>1575347941757</updated>
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
     </task>
     <task id="LOCAL-00003" summary="Scientific Calculator">
       <created>1575353857286</created>
@@ -203,7 +1285,382 @@
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
+<<<<<<< HEAD
+=======
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
+    <MESSAGE value="scientific calculator tanh" />
+    <option name="LAST_COMMIT_MESSAGE" value="scientific calculator tanh" />
+=======
+<<<<<<< HEAD
+      <changelist id="d204fc7b-43fe-4759-b55f-c00355827a55" name="Default Changelist" comment="" />
+      <created>1574135265035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574135265035</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Scientific Calculator">
+      <created>1574135595283</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574135595283</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Scientific Calculator">
+      <created>1574233163549</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574233163549</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Scientific Calculator">
+      <created>1574315954297</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574315954297</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Scientific Calculator">
+      <created>1574317548637</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574317548637</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Scientific Calculator">
+      <created>1574327749463</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574327749463</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Scientific Calculator">
+      <created>1574327778760</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574327778760</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Scientific Calculator">
+      <created>1574416305024</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1574416305024</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Scientific Calculator">
+      <created>1574931870854</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574931870854</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Scientific Calculator">
+      <created>1574932064902</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1574932064902</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Scientific Calculator">
+      <created>1574932590918</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1574932590918</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Scientific Calculator">
+      <created>1574933635871</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1574933635871</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
+    <MESSAGE value="ln_func" />
+    <option name="LAST_COMMIT_MESSAGE" value="ln_func" />
+=======
+    <MESSAGE value="Scientific Calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scientific Calculator" />
+=======
+      <changelist id="9960d9b6-497a-4633-9bbf-a82547f3bf78" name="Default Changelist" comment="" />
+      <created>1574336939435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574336939435</updated>
+    </task>
+    <task id="LOCAL-00001" summary="pushing files">
+      <created>1574337531135</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574337531135</updated>
+    </task>
+    <task id="LOCAL-00002" summary="pushing files">
+      <created>1574338730040</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574338730040</updated>
+    </task>
+    <task id="LOCAL-00003" summary="After Merging with x_power_y">
+      <created>1574922009352</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574922009352</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.29787233" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+>>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+<<<<<<< HEAD
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16145833" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.08852459" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" weight="0.083606556" />
+      <window_info anchor="bottom" id="Terminal" order="8" type="SLIDING" weight="0.4180328" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.29180327" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="scientificcalculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="scientificcalculator" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/endpoint/swagger.yml.py" />
+    <entry file="file://$PROJECT_DIR$/dist/ScientificCalculatorLog.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/main/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/driver/ScientificCalc.py" />
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/driver/scientific_calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding>
+            <element signature="e#46#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__main__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+=======
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pushing files" />
+    <option name="LAST_COMMIT_MESSAGE" value="pushing files" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/end_point/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__main__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/end_point/swagger.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/driver/scientific_calc.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+>>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScientificCalculatorLog.log">
+<<<<<<< HEAD
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/endpoint/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/endpoint/swagger.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/driver/scientific_calc_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="63" lean-forward="true" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
+          <folding>
+            <element signature="e#54#69#0" expanded="true" />
+=======
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="283">
+          <caret line="440" column="8" lean-forward="true" selection-start-line="440" selection-start-column="8" selection-end-line="440" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/main/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="e#95#158#0" expanded="true" />
+>>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+=======
+>>>>>>> 438acfb6e97d5f76b65414f2ab572aa7df57036e
+>>>>>>> 595387508ebadcc6158a63afa14092031273379c
+>>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
+=======
     <MESSAGE value="sine_h" />
     <MESSAGE value="sine_h commit" />
     <MESSAGE value="Scientific Calculator" />
@@ -219,5 +1676,8 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+>>>>>>> d130c38b5790f23715f75e9664db833a2266946b
+>>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
+>>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0
   </component>
 </project>

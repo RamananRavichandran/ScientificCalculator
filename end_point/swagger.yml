@@ -31,7 +31,7 @@ paths:
               output:
                 type: number
 
-  /src/driver/scientific_calc/ScientificCalc/var_initialization/{base_no},{power_no}:
+  /src/driver/scientific_calc/ScientificCalc/var_initialization{base_no},{power_no}:
     post:
       operationId: src.driver.scientific_calc.ScientificCalc.var_initialization
       tags:
@@ -71,7 +71,7 @@ paths:
             required: true
         responses:
           200:
-            description: give value for angle
+            description: gives value for tanh
             schema:
               type: number
               items:
@@ -157,11 +157,11 @@ paths:
         - name: angle
           in: path
           type: string
-          description: Number of people to get from people
+          description: provide a number
           required: true
       responses:
         200:
-          description: Successfully read people list operation
+          description: Gives the value of rad of number
           schema:
             items:
               properties:
@@ -189,7 +189,7 @@ paths:
                properties:
                  number:
                    type: integer
-  /src/driver/scientific_calc/ScientificCalc/calculate_cos/{angle}:
+  /src/driver/scientific_calc/ScientificCalc/calculate_cos{angle}:
    post:
      operationId: src.driver.scientific_calc.ScientificCalc.calculate_cos
      tags:
@@ -200,7 +200,7 @@ paths:
        - name: angle
          in: path
          description: Provides x value
-         type: number
+         type: string
          required: true
      responses:
        200:
@@ -223,11 +223,11 @@ paths:
        - name: tan_angle
          in: path
          type: string
-         description: Number of people to get from people
+         description: provide a number
          required: true
      responses:
        200:
-         description: Successfully read people list operation
+         description: Gives the value of tan of number
          schema:
            type: number
            items:
@@ -235,7 +235,7 @@ paths:
                number:
                  type: integer
 
-  /src/driver/scientific_calc/ScientificCalc/cal_power_ten/{pow_value}:
+  /src/driver/scientific_calc/ScientificCalc/cal_power_ten{pow_value}:
     post:
       operationId: src.driver.scientific_calc.ScientificCalc.cal_power_ten
       tags:
@@ -270,7 +270,7 @@ paths:
           required: true
       responses:
         200:
-          description: Gives value for ten power x
+          description: Gives value for logarithm
           schema:
             properties:
               output:
@@ -286,14 +286,135 @@ paths:
         - name: x_value
           in: path
           type: string
-          description: Number of people to get from people
+          description: provide a number
           required: true
       responses:
         200:
-          description: Successfully read people list operation
+          description: Gives the value of sinh of number
           schema:
             type: number
             items:
               properties:
                 x_value:
                   type: integer
+  /src/driver/scientific_calc/ScientificCalc/trig_cosh{number}:
+    post:
+      operationId: src.driver.scientific_calc.ScientificCalc.trig_cosh
+      tags:
+      - cosh
+      summary: Read a number to find cosh calculation
+      description: Read a number
+      parameters:
+      - name: number
+        in: path
+        type: string
+        description: provide a number
+        required: true
+      responses:
+        200:
+          description: Gives the value of cosh of number
+          schema:
+            type: number
+            items:
+              properties:
+                number:
+                  type: string
+  /src/driver/scientific_calc/ScientificCalc/ln_func{x_value}:
+    post:
+      operationId: src.driver.scientific_calc.ScientificCalc.ln_func
+      tags:
+        - ln
+      summary: Read a number to find ln calculation
+      description: Read a number
+      parameters:
+        - name: x_value
+          in: path
+          type: string
+          description:  provide a number
+          required: true
+      responses:
+        200:
+          description: Gives the value of ln of number
+          schema:
+            type: number
+            items:
+              properties:
+                angle:
+                  type: string
+
+  /src/driver/scientific_calc/ScientificCalc/addition{list_add}:
+    post:
+      operationId: src.driver.scientific_calc.ScientificCalc.addition
+      tags:
+        - addition
+      summary: Read numbers to perform addition operation
+      description: Read numbers
+      parameters:
+        - name: list_add
+          in: path
+          type: array
+          items:
+            type: string
+          required: true
+      responses:
+        200:
+          description: Successfully performed addition
+          schema:
+            type: integer
+  /src/driver/scientific_calc/ScientificCalc/subtraction{list_sub}:
+      post:
+        operationId: src.driver.scientific_calc.ScientificCalc.subtraction
+        tags:
+          - subtraction
+        summary: Read numbers to perform subtraction operation
+        description: Read numbers
+        parameters:
+          - name: list_sub
+            in: path
+            type: array
+            items:
+              type: string
+            required: true
+        responses:
+          200:
+            description: Successfully performed subtraction
+            schema:
+              type: integer
+  /src/driver/scientific_calc/ScientificCalc/multiplication{list_mul}:
+      post:
+        operationId: src.driver.scientific_calc.ScientificCalc.multiplication
+        tags:
+          - multiplication
+        summary: Read numbers to perform multiplication operation
+        description: Read numbers
+        parameters:
+          - name: list_mul
+            in: path
+            type: array
+            items:
+              type: string
+            required: true
+        responses:
+          200:
+            description: Successfully performed multiplication
+            schema:
+              type: integer
+  /src/driver/scientific_calc/ScientificCalc/division{list_div}:
+      post:
+        operationId: src.driver.scientific_calc.ScientificCalc.division
+        tags:
+          - division
+        summary: Read numbers to perform division operation
+        description: Read numbers
+        parameters:
+          - name: list_div
+            in: path
+            type: array
+            items:
+              type: string
+            required: true
+        responses:
+          200:
+            description: Successfully performed division
+            schema:
+              type: integer

@@ -1,3 +1,4 @@
+"""main function for testing"""
 from test.driver.scientific_calc_test import ScientificCalcTest
 import unittest
 
