@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b82e28f-b82c-45dd-b33e-06b9d77e3447" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScientificCalculatorLog.log" beforeDir="false" afterPath="$PROJECT_DIR$/ScientificCalculatorLog.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575526790283</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ui commit3">
+      <created>1575527178604</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575527178604</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -148,6 +158,7 @@
     <MESSAGE value="commit" />
     <MESSAGE value="ui commit" />
     <MESSAGE value="ui commit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="ui commit2" />
+    <MESSAGE value="ui commit3" />
+    <option name="LAST_COMMIT_MESSAGE" value="ui commit3" />
   </component>
 </project>
