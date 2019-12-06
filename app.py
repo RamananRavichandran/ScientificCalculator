@@ -5,7 +5,7 @@ from flask import (
     request)
 from src.driver.scientific_calc import ScientificCalc
 # Create the application instance
-app = Flask(__name__, template_folder="static")
+app = Flask(__name__)
 
 @app.route('/')
 def home():
@@ -22,4 +22,4 @@ def e_power_x_res():
         return render_template('e_power_x_res.html',value=result)
     # If we're running in stand alone mode, run the application
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5000, debug=True)
