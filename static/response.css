@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Response Page</title>
-    <style>
+
         body{
             background-color:#eee
         }
@@ -20,14 +15,3 @@
             width: 447px;
             border: solid black 2px;
          }
-     </style>
-
-</head>
-<body>
-<center>
-    <br><br><br><br><br><br>
-    <h1>Result</h1>
-    <p>{{value}}</p>
-</center>
-</body>
-</html>
