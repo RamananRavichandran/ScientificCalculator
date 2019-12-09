@@ -1,27 +1,3 @@
-<<<<<<< HEAD
-from flask import Flask, render_template, request
-from src.driver.scientific_calc import ScientificCalc
-
-app = Flask(__name__,template_folder="templates")
-
-@app.route("/")
-def home():
-    return render_template('home.html')
-
-@app.route("/ln_req")
-def ln_req():
-    return render_template('ln.html')
-
-@app.route("/ln_res",methods=['POST'])
-def ln_res():
-        angle = request.form.get('input')
-        c1 = ScientificCalc()
-        result = c1.ln_func(angle)
-        return render_template('ln_response.html',value=result)
-
-if __name__=='__main__':
-    app.run(debug=True)
-=======
 from flask import (
     Flask,
     render_template,
@@ -119,8 +95,17 @@ def e_power_x_res():
     result = e_power_x_obj.exponential_func(power_value)
     return render_template('e_power_x_res.html', value=result)
 
+@app.route("/ln_req")
+def ln_req():
+    return render_template('ln.html')
+
+@app.route("/ln_res",methods=['POST'])
+def ln_res():
+        angle = request.form.get('input')
+        c1 = ScientificCalc()
+        result = c1.ln_func(angle)
+        return render_template('ln_response.html',value=result)
 
 # If we're running in stand alone mode, run the application
 if __name__ == '__main__':
     app.run(debug=True)
->>>>>>> 40891c9a38c6077e1d8920c9ae24ce206482cb90
