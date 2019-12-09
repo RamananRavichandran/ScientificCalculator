@@ -123,6 +123,12 @@ def main():
             for key in range(1, len(method_name)):
                 div_list.append(method_name[key])
             print(obj_power.division(div_list))
+
+        elif method_name[0] == 'factorial':
+            if len(method_name) > 2:
+                raise UnnecessaryParameterException
+            fact = method_name[1]
+            print(obj_power.factorial(fact))
         else:
             raise MethodNotFoundException
 
