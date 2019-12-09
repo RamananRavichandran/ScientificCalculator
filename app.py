@@ -1,30 +1,3 @@
-<<<<<<< HEAD
-from flask import Flask, render_template, request
-from flask import (
-    Flask,
-    render_template,
-    request)
-from src.driver.scientific_calc import ScientificCalc
-# Create the application instance
-app = Flask(__name__)
-
-@app.route('/')
-def home():
-    return render_template('home.html')
-@app.route('/e_power_x_req')
-def e_power_x_req():
-    return render_template('e_power_x_req.html')
-
-@app.route('/e_power_x_res', methods=['POST'])
-def e_power_x_res():
-        power_value=request.form['input']
-        e_power_x_obj=ScientificCalc()
-        result=e_power_x_obj.exponential_func(power_value)
-        return render_template('e_power_x_res.html',value=result)
-    # If we're running in stand alone mode, run the application
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000, debug=True)
-=======
 from flask import (
     Flask,
     render_template,
@@ -96,18 +69,33 @@ def response():
         result = calculate_cos_obj.calculate_cos(angle)
     return render_template('cos_res.html', value=result)
 
+
 @app.route("/cosh_req")
 def cosh_req():
     return render_template('cosh.html')
 
-@app.route("/cosh_res",methods=['POST'])
+
+@app.route("/cosh_res", methods=['POST'])
 def cosh_res():
-        angle = request.form.get('input')
-        c1 = ScientificCalc()
-        result = c1.trig_cosh(angle)
-        return render_template('cosh_response.html',value=result)
+    angle = request.form.get('input')
+    c1 = ScientificCalc()
+    result = c1.trig_cosh(angle)
+    return render_template('cosh_response.html', value=result)
+
+
+@app.route('/e_power_x_req')
+def e_power_x_req():
+    return render_template('e_power_x_req.html')
+
+
+@app.route('/e_power_x_res', methods=['POST'])
+def e_power_x_res():
+    power_value = request.form['input']
+    e_power_x_obj = ScientificCalc()
+    result = e_power_x_obj.exponential_func(power_value)
+    return render_template('e_power_x_res.html', value=result)
+
 
 # If we're running in stand alone mode, run the application
 if __name__ == '__main__':
     app.run(debug=True)
->>>>>>> 1fe08ad1d4c6ee6621a55d3d8b497113a87ee55c
