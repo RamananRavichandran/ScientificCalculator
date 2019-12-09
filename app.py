@@ -1,28 +1,3 @@
-from flask import Flask, render_template, request
-from src.driver.scientific_calc import ScientificCalc
-
-<<<<<<< HEAD
-app = Flask(__name__,template_folder="templates")
-
-@app.route("/")
-def home():
-    return render_template('home')
-
-@app.route("/cosh_req")
-def cosh_req():
-    return render_template('cosh.html')
-
-@app.route("/cosh_res",methods=['POST'])
-def cosh_res():
-        angle = request.form.get('input')
-        c1 = ScientificCalc()
-        result = c1.trig_cosh(angle)
-        return render_template('cosh_response.html',value=result)
-
-if __name__=='__main__':
-    app.run(debug=True)
-
-=======
 from flask import (
     Flask,
     render_template,
@@ -94,8 +69,17 @@ def response():
         result = calculate_cos_obj.calculate_cos(angle)
     return render_template('cos_res.html', value=result)
 
+@app.route("/cosh_req")
+def cosh_req():
+    return render_template('cosh.html')
+
+@app.route("/cosh_res",methods=['POST'])
+def cosh_res():
+        angle = request.form.get('input')
+        c1 = ScientificCalc()
+        result = c1.trig_cosh(angle)
+        return render_template('cosh_response.html',value=result)
 
 # If we're running in stand alone mode, run the application
 if __name__ == '__main__':
     app.run(debug=True)
->>>>>>> ed1f0685b926e9ab9ad67d8b15b67c73e2a1e5c7
