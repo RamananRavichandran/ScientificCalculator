@@ -1454,5 +1454,8 @@ werkzeug - INFO - 127.0.0.1 - - [09/Dec/2019 20:48:31] "GET /10_power_x_request?
 werkzeug - INFO - 127.0.0.1 - - [09/Dec/2019 20:48:34] "POST /10_power_x_response HTTP/1.1" 200 - - 2019-12-09 20:48:34,961 - 122 - _internal - _log - C:\Users\sneha\AppData\Local\Programs\Python\Python37-32\lib\site-packages\werkzeug\_internal.py
 werkzeug - INFO - 127.0.0.1 - - [09/Dec/2019 20:48:44] "GET /factorial_request?fctorial=x_factorial HTTP/1.1" 200 - - 2019-12-09 20:48:44,111 - 122 - _internal - _log - C:\Users\sneha\AppData\Local\Programs\Python\Python37-32\lib\site-packages\werkzeug\_internal.py
 werkzeug - INFO - 127.0.0.1 - - [09/Dec/2019 20:48:49] "POST /factorial_response HTTP/1.1" 200 - - 2019-12-09 20:48:49,330 - 122 - _internal - _log - C:\Users\sneha\AppData\Local\Programs\Python\Python37-32\lib\site-packages\werkzeug\_internal.py
+<<<<<<< HEAD
 werkzeug - INFO -  * Detected change in 'C:\\Users\\sneha\\PycharmProjects\\ScientificCalculator\\src\\driver\\scientific_calc.py', reloading - 2019-12-09 20:52:23,844 - 122 - _internal - _log - C:\Users\sneha\AppData\Local\Programs\Python\Python37-32\lib\site-packages\werkzeug\_internal.py
 werkzeug - INFO -  * Restarting with stat - 2019-12-09 20:52:23,859 - 122 - _internal - _log - C:\Users\sneha\AppData\Local\Programs\Python\Python37-32\lib\site-packages\werkzeug\_internal.py
+=======
+>>>>>>> 88789d0678495ef2d4018ffaab47b17a4802a10d
