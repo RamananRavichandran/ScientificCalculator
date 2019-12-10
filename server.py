@@ -1,9 +1,10 @@
-"""connexion file for swagger"""
+from flask import render_template
 import connexion
 
-APP = connexion.App(__name__, specification_dir='end_point/')
+app = connexion.App(__name__, specification_dir='End_Point/')
 
-APP.add_api('swagger.yml')
+
+app.add_api('swagger.yml')
 
 if __name__ == '__main__':
-    APP.run(host='0.0.0.0', port=5000, debug=True)
+    app.run(host='0.0.0.0', port=5000, debug=True)
