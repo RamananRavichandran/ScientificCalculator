@@ -30,6 +30,19 @@ def x_power_y_response():
     return render_template("x_power_y_res.html", result=x_power_y_value)
 
 
+@app.route('/tangent_req')
+def tangent_req():
+    return render_template("tangent_req.html")
+
+
+@app.route('/tangent_res', methods=["POST"])
+def tangent_res():
+    angle_value = request.form.get("tan_value")
+    flask_obj = ScientificCalc()
+    tan_angle_value = flask_obj.tan_fun(angle_value)
+    return render_template("tangent_res.html", result=tan_angle_value)
+
+
 @app.route('/10_power_x_request')
 def ten_power_x_request():
     return render_template("10_power_x_req.html")
@@ -121,102 +134,130 @@ def radian_res():
     rad_result = rad_obj.rad(angle)
     return render_template('rad_res.html', value=rad_result)
 
+
 @app.route("/addition_req")
 def addition_req():
     return render_template('addition_req.html')
 
-@app.route("/addition_res",methods=['POST'])
+
+@app.route("/addition_res", methods=['POST'])
 def addition_res():
-        list_add = []
-        for a in range(0,1):
-            num1 = request.form.get('input1')
-            num2 = request.form.get('input2')
-            list_add.append(num1)
-            list_add.append(num2)
-        c1 = ScientificCalc()
-        result = c1.addition(list_add)
-        return render_template('addition_response.html',value=result)
+    list_add = []
+    for a in range(0, 1):
+        num1 = request.form.get('input1')
+        num2 = request.form.get('input2')
+        list_add.append(num1)
+        list_add.append(num2)
+    c1 = ScientificCalc()
+    result = c1.addition(list_add)
+    return render_template('addition_response.html', value=result)
+
 
 @app.route("/subtraction_req")
 def subtraction_req():
     return render_template('subtraction_req.html')
 
-@app.route("/subtraction_res",methods=['POST'])
+
+@app.route("/subtraction_res", methods=['POST'])
 def subtraction_res():
-        list_sub = []
-        for a in range(0,1):
-            num1 = request.form.get('input1')
-            num2 = request.form.get('input2')
-            list_sub.append(num1)
-            list_sub.append(num2)
-        c1 = ScientificCalc()
-        result = c1.subtraction(list_sub)
-        return render_template('subtraction_response.html',value=result)
+    list_sub = []
+    for a in range(0, 1):
+        num1 = request.form.get('input1')
+        num2 = request.form.get('input2')
+        list_sub.append(num1)
+        list_sub.append(num2)
+    c1 = ScientificCalc()
+    result = c1.subtraction(list_sub)
+    return render_template('subtraction_response.html', value=result)
+
 
 @app.route("/multiplication_req")
 def multiplication_req():
     return render_template('multiplication_req.html')
 
-@app.route("/multiplication_res",methods=['POST'])
+
+@app.route("/multiplication_res", methods=['POST'])
 def multiplication_res():
-        list_mul = []
-        for a in range(0,1):
-            num1 = request.form.get('input1')
-            num2 = request.form.get('input2')
-            list_mul.append(num1)
-            list_mul.append(num2)
-        c1 = ScientificCalc()
-        result = c1.multiplication(list_mul)
-        return render_template('multiplication_response.html',value=result)
+    list_mul = []
+    for a in range(0, 1):
+        num1 = request.form.get('input1')
+        num2 = request.form.get('input2')
+        list_mul.append(num1)
+        list_mul.append(num2)
+    c1 = ScientificCalc()
+    result = c1.multiplication(list_mul)
+    return render_template('multiplication_response.html', value=result)
+
 
 @app.route("/division_req")
 def division_req():
     return render_template('division_req.html')
 
-@app.route("/division_res",methods=['POST'])
+
+@app.route("/division_res", methods=['POST'])
 def division_res():
-        list_div = []
-        for a in range(0,1):
-            num1 = request.form.get('input1')
-            num2 = request.form.get('input2')
-            list_div.append(num1)
-            list_div.append(num2)
-        c1 = ScientificCalc()
-        result = c1.division(list_div)
-        return render_template('division_response.html',value=result)
+    list_div = []
+    for a in range(0, 1):
+        num1 = request.form.get('input1')
+        num2 = request.form.get('input2')
+        list_div.append(num1)
+        list_div.append(num2)
+    c1 = ScientificCalc()
+    result = c1.division(list_div)
+    return render_template('division_response.html', value=result)
+
 
 @app.route("/cube_root_req")
 def cube_root_req():
     return render_template('cube_root_req.html')
 
-@app.route("/cube_root_res",methods=['POST'])
+
+@app.route("/cube_root_res", methods=['POST'])
 def cube_root_res():
     number1 = request.form.get('input')
     c1 = ScientificCalc()
     result = c1.cube_root(number1)
     return render_template('cube_root_res.html', value=result)
 
-@app.route('/tangent_req')
-def tangent_req():
-    return render_template("tangent_req.html")
 
-@app.route('/tangent_res', methods=["POST"])
-def tangent_res():
-    angle_value = request.form.get("tan_value")
-    flask_obj = ScientificCalc()
-    tan_angle_value = flask_obj.tan_fun(angle_value)
-    return render_template("tangent_res.html", result=tan_angle_value)
+@app.route("/sin_req")
+def sin_req():
+    return render_template('sin_request.html')
+
+
+@app.route("/sin_res", methods=['POST'])
+def sin_res():
+    angle = request.form.get('input')
+    c1 = ScientificCalc()
+    result = c1.sin_func(angle)
+    return render_template('sin_response.html', value=result)
+
+
+@app.route("/sineh_req")
+def sineh_req():
+    return render_template('sinh_request.html')
+
+
+@app.route("/sineh_res", methods=['POST'])
+def sinh_res():
+    angle = request.form.get('input')
+    c1 = ScientificCalc()
+    result = c1.sine_h(angle)
+    return render_template('sinh_response.html', value=result)
+
 
 @app.route("/tanh_req")
 def tanh_req():
     return render_template('tanh_req.html')
 
-@app.route("/tanh_res",methods=['POST'])
+
+@app.route("/tanh_res", methods=['POST'])
 def tanh_res():
-        angle = request.form.get('input')
-        c1 = ScientificCalc()
-        result = c1.calculate_tanh(angle)
-        return render_template('tanh_response.html',value=result)
+    angle = request.form.get('input')
+    c1 = ScientificCalc()
+    result = c1.calculate_tanh(angle)
+    return render_template('tanh_response.html', value=result)
+
 
 # If we're running in stand alone mode, run the application
 if __name__ == '__main__':
