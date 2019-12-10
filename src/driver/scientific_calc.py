@@ -25,6 +25,7 @@ class ScientificCalc:
         self.number = 0
         self.number1 = 0
         self.sinh_of_x = 0
+        self.fact = 0
 
     @classmethod
     def cal_power_ten(cls, pow_value):
@@ -50,6 +51,26 @@ class ScientificCalc:
             return "Please enter float or integer types input."
 
     @classmethod
+    def factorial(cls, fact_input):
+        try:
+            fact_val = 1
+            print(fact_input)
+            cls.fact = int(fact_input)
+            print(cls.fact)
+            if cls.fact == 0:
+                fact_val = 1
+            elif cls.fact > 0:
+                for i in range(1, cls.fact+1):
+                    fact_val *= i
+            else:
+                return "Please enter integer type input"
+        except ValueError as fact_error:
+            logging.exception(fact_error)
+            print(fact_error)
+            return "Please enter integer type input"
+        return fact_val
+
+    @classmethod
     def x_power_y(cls, base_val, power_val):
         """if power value is 0 returns 1
         else recursively calls x_power_y function and returns the final answer"""
@@ -70,6 +91,7 @@ class ScientificCalc:
     @classmethod
     def var_initialization(cls, base_no, power_no):
         """initializing the variables"""
+        print(base_no, power_no)
         try:
             base = float(base_no)
             power = int(power_no)
