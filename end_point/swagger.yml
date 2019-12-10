@@ -239,7 +239,7 @@ paths:
     post:
       operationId: src.driver.scientific_calc.ScientificCalc.cal_power_ten
       tags:
-        - ten_power_y
+        - ten_power_x
       summary: Calculate value for ten power x
       description: Calculate value for ten power x
       parameters:
@@ -418,3 +418,26 @@ paths:
             description: Successfully performed division
             schema:
               type: integer
+
+  /src/driver/scientific_calc/ScientificCalc/factorial{fact_input}:
+    post:
+      operationId: src.driver.scientific_calc.ScientificCalc.factorial
+      tags:
+        - factorial
+      summary: Read a number to find factorial of a number
+      description: Read a number to find factorial of a number
+      parameters:
+        - name: fact_input
+          in: path
+          type: string
+          description: provide a number
+          required: true
+      responses:
+        200:
+          description: Gives the value of factorial of number
+          schema:
+            type: number
+            items:
+              properties:
+                number:
+                  type: integer
