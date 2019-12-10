@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+    <list default="true" id="bb978a9a-1d88-42cd-8de4-31c676c45074" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    </list>
+=======
+<<<<<<< HEAD
     <list default="true" id="56bdf405-c504-4616-a6b8-9397f460fc90" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/templates/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/templates/tangent_req.html" afterDir="false" />
@@ -1852,12 +1857,15 @@
 >>>>>>> 17edfa78bf9d7e6eb71318aef6a85c11a025a5ea
 >>>>>>> e73186370941340e0691b6c869e97859289435aa
     </list>
+>>>>>>> 5644851337f0f8f7bfae46110ef5a669a48193df
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+=======
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
@@ -1883,6 +1891,7 @@
       </file>
     </leaf>
   </component>
+>>>>>>> 5644851337f0f8f7bfae46110ef5a669a48193df
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -1892,6 +1901,14 @@
     </option>
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="sqrt_11681335" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+=======
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -1928,6 +1945,7 @@
         <option value="$PROJECT_DIR$/end_point/swagger.yml" />
       </list>
     </option>
+>>>>>>> 5644851337f0f8f7bfae46110ef5a669a48193df
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
@@ -1936,6 +1954,8 @@
     <option name="height" value="688" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+<<<<<<< HEAD
+=======
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -1955,10 +1975,13 @@
       </pane>
     </panes>
   </component>
+>>>>>>> 5644851337f0f8f7bfae46110ef5a669a48193df
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -1968,13 +1991,17 @@
       <recent name="C:\Users\novin.patrick\PycharmProjects\ScientificCalculator\templates" />
       <recent name="C:\Users\novin.patrick\PycharmProjects\ScientificCalculator\static" />
 =======
+>>>>>>> 5644851337f0f8f7bfae46110ef5a669a48193df
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\jayasree.suresh\PycharmProjects\ScientificCalculator\templates" />
+<<<<<<< HEAD
+=======
 >>>>>>> e73186370941340e0691b6c869e97859289435aa
+>>>>>>> 5644851337f0f8f7bfae46110ef5a669a48193df
     </key>
   </component>
   <component name="RunDashboard">
@@ -2037,8 +2064,13 @@
         <item itemvalue="Python tests.Unittests for ScientificCalc_Test.TestCubeRoot.test_cube_root_negative" />
         <item itemvalue="Python tests.Unittests for ScientificCalc_Test.TestCubeRoot.test_cube_root" />
         <item itemvalue="Python tests.Unittests for ScientificCalc_Test.TestCubeRoot" />
+<<<<<<< HEAD
+        <item itemvalue="Python tests.Unittests for ScientificCalc_Test.TestCubeRoot.test_cube_root_negative" />
+        <item itemvalue="Python tests.Unittests for ScientificCalc_Test.TestCubeRoot.test_cube_root" />
+=======
         <item itemvalue="Python tests.Unittests for ScientificCalc_Test.TestCubeRoot" />
         <item itemvalue="Python tests.Unittests for ScientificCalc_Test.TestCubeRoot.test_cube_root_negative" />
+>>>>>>> 5644851337f0f8f7bfae46110ef5a669a48193df
       </list>
     </recent_temporary>
   </component>
@@ -2049,6 +2081,31 @@
     <task active="true" id="Default" summary="Default task">
       <changelist id="9c3d3a2f-aaf7-4956-a2a8-27f6ddb7ccc9" name="Default Changelist" comment="" />
       <created>1574943916020</created>
+<<<<<<< HEAD
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574943916020</updated>
+    </task>
+    <task id="LOCAL-00001" summary="cuberoot functionality">
+      <created>1575012841305</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575012841305</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cuberoot functionality">
+      <created>1575019860413</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575019860413</updated>
+    </task>
+    <task id="LOCAL-00003" summary="cuberoot functionality">
+      <created>1575020620229</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+=======
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574943916020</updated>
@@ -2228,6 +2285,7 @@
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
+>>>>>>> 5644851337f0f8f7bfae46110ef5a669a48193df
       <updated>1575020620229</updated>
     </task>
     <task id="LOCAL-00004" summary="cuberoot functionality">
@@ -2260,6 +2318,28 @@
     </task>
     <option name="localTasksCounter" value="8" />
     <servers />
+<<<<<<< HEAD
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cuberoot functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="cuberoot functionality" />
+=======
   </component>
   <component name="TestHistory">
     <history-entry file="Unittests_for_ScientificCalc_Test_TestCubeRoot - 2019.11.28 at 18h 04m 32s.xml">
@@ -2504,5 +2584,6 @@
 >>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0
 =======
 >>>>>>> 17edfa78bf9d7e6eb71318aef6a85c11a025a5ea
+>>>>>>> 5644851337f0f8f7bfae46110ef5a669a48193df
   </component>
 </project>

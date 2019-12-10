@@ -9,10 +9,14 @@ if defined _OLD_CODEPAGE (
 )
 
 <<<<<<< HEAD
+set "VIRTUAL_ENV=C:\Users\karishma.murali\PycharmProjects\ScientificCalculator\venv"
+=======
+<<<<<<< HEAD
 set "VIRTUAL_ENV=C:\Users\nivetha.samraj\PycharmProjects\ScientificCalculator\venv"
 =======
 set "VIRTUAL_ENV=C:\Users\karishma.murali\PycharmProjects\ScientificCalculator\venv"
 >>>>>>> 17edfa78bf9d7e6eb71318aef6a85c11a025a5ea
+>>>>>>> 5644851337f0f8f7bfae46110ef5a669a48193df
 
 if not defined PROMPT (
     set "PROMPT=$P$G"

@@ -15,6 +15,7 @@ def home():
     """directed to home page"""
     return render_template("home.html")
 
+
 @app.route('/x_power_y_request')
 def x_power_y_request():
     return render_template("x_power_y_req.html")
@@ -27,6 +28,7 @@ def x_power_y_response():
     flask_obj = ScientificCalc()
     x_power_y_value = flask_obj.var_initialization(power_value, base_value)
     return render_template("x_power_y_res.html", result=x_power_y_value)
+
 
 @app.route('/tangent_req')
 def tangent_req():
@@ -243,16 +245,19 @@ def sinh_res():
     result = c1.sine_h(angle)
     return render_template('sinh_response.html', value=result)
 
+
 @app.route("/tanh_req")
 def tanh_req():
     return render_template('tanh_req.html')
 
-@app.route("/tanh_res",methods=['POST'])
+
+@app.route("/tanh_res", methods=['POST'])
 def tanh_res():
-        angle = request.form.get('input')
-        c1 = ScientificCalc()
-        result = c1.calculate_tanh(angle)
-        return render_template('tanh_response.html',value=result)
+    angle = request.form.get('input')
+    c1 = ScientificCalc()
+    result = c1.calculate_tanh(angle)
+    return render_template('tanh_response.html', value=result)
+
 
 # If we're running in stand alone mode, run the application
 if __name__ == '__main__':
