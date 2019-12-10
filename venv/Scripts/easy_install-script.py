@@ -1,4 +1,8 @@
-#!C:\Users\p.venu.gopal\PycharmProjects\ScientificCalculator\venv\Scripts\python.exe
+<<<<<<< HEAD
+#!C:\Users\jayasree.suresh\PycharmProjects\ScientificCalculator\venv\Scripts\python.exe
+=======
+#!C:\Users\sneha.govindharajan\PycharmProjects\ScientificCalculator\venv\Scripts\python.exe
+>>>>>>> 1fe08ad1d4c6ee6621a55d3d8b497113a87ee55c
 # EASY-INSTALL-ENTRY-SCRIPT: 'setuptools==40.8.0','console_scripts','easy_install'
 __requires__ = 'setuptools==40.8.0'
 import re

@@ -1,5 +1,10 @@
+<<<<<<< HEAD
+root - ERROR - Exception occured - 2019-11-29 17:07:31,055 - 12 - scientific_calc - sine_h - build\bdist.win-amd64\egg\src\driver\scientific_calc.py
+None
+=======
 root - ERROR -  - 2019-11-29 17:30:21,973 - 62 - main - main - ScientificCalculator-1.3-py3.7.egg\src\main\main.py
 Traceback (most recent call last):
   File "ScientificCalculator-1.3-py3.7.egg\src\main\main.py", line 52, in main
     raise MethodNotFoundException
 src.exception.method_not_found_exception.MethodNotFoundException
+>>>>>>> 4c944343f6172ad5f12d2d283a784b6185f55c41
