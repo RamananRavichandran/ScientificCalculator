@@ -11,7 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/test/driver" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/test/main" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.7 (SciCalc)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (ScientificCalculator)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
