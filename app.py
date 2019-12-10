@@ -196,6 +196,28 @@ def cube_root_res():
     result = c1.cube_root(number1)
     return render_template('cube_root_res.html', value=result)
 
+@app.route('/tangent_req')
+def tangent_req():
+    return render_template("tangent_req.html")
+
+@app.route('/tangent_res', methods=["POST"])
+def tangent_res():
+    angle_value = request.form.get("tan_value")
+    flask_obj = ScientificCalc()
+    tan_angle_value = flask_obj.tan_fun(angle_value)
+    return render_template("tangent_res.html", result=tan_angle_value)
+
+@app.route("/tanh_req")
+def tanh_req():
+    return render_template('tanh_req.html')
+
+@app.route("/tanh_res",methods=['POST'])
+def tanh_res():
+        angle = request.form.get('input')
+        c1 = ScientificCalc()
+        result = c1.calculate_tanh(angle)
+        return render_template('tanh_response.html',value=result)
+
 # If we're running in stand alone mode, run the application
 if __name__ == '__main__':
     app.run(debug=True)
