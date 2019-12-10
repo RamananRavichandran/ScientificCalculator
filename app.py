@@ -57,17 +57,17 @@ def factorial_response():
 
 
 @app.route("/cos_req")
-def calculate():
+def calculate_cos_request():
     return render_template('cos_req.html')
 
 
 @app.route("/cos_res", methods=['POST'])
-def response():
+def calculate_cos_response():
     if request.method == 'POST':
         angle = request.form['angle']
         calculate_cos_obj = ScientificCalc()
-        result = calculate_cos_obj.calculate_cos(angle)
-    return render_template('cos_res.html', result=result)
+        cos_result = calculate_cos_obj.calculate_cos(angle)
+    return render_template('cos_res.html', value=cos_result)
 
 
 @app.route("/cosh_req")
@@ -78,9 +78,9 @@ def cosh_req():
 @app.route("/cosh_res", methods=['POST'])
 def cosh_res():
     angle = request.form.get('input')
-    c1 = ScientificCalc()
-    result = c1.trig_cosh(angle)
-    return render_template('cosh_response.html', result=result)
+    cosh_obj = ScientificCalc()
+    cosh_result = cosh_obj.trig_cosh(angle)
+    return render_template('cosh_response.html', value=cosh_result)
 
 
 @app.route('/e_power_x_req')
@@ -92,8 +92,8 @@ def e_power_x_req():
 def e_power_x_res():
     power_value = request.form['input']
     e_power_x_obj = ScientificCalc()
-    result = e_power_x_obj.exponential_func(power_value)
-    return render_template('e_power_x_res.html', result=result)
+    e_power_x_result = e_power_x_obj.exponential_func(power_value)
+    return render_template('e_power_x_res.html', value=e_power_x_result)
 
 
 @app.route("/ln_req")
@@ -104,9 +104,9 @@ def ln_req():
 @app.route("/ln_res", methods=['POST'])
 def ln_res():
     angle = request.form.get('input')
-    c1 = ScientificCalc()
-    result = c1.ln_func(angle)
-    return render_template('ln_response.html', result=result)
+    ln_obj = ScientificCalc()
+    ln_result = ln_obj.ln_func(angle)
+    return render_template('ln_response.html', value=ln_result)
 
 
 @app.route("/radian_req")
@@ -117,9 +117,9 @@ def radian_req():
 @app.route("/radian_res", methods=['POST'])
 def radian_res():
     angle = request.form.get('input')
-    c1 = ScientificCalc()
-    result = c1.rad(angle)
-    return render_template('rad_res.html', result=result)
+    rad_obj = ScientificCalc()
+    rad_result = rad_obj.rad(angle)
+    return render_template('rad_res.html', value=rad_result)
 
 
 # If we're running in stand alone mode, run the application
