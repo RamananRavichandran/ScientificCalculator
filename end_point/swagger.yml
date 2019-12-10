@@ -121,7 +121,7 @@ paths:
                angle:
                  type: integer
  /src/driver/scientific_calc/ScientificCalc/cube_root{n_value}:
-   get:
+   post:
      operationId: src.driver.scientific_calc.ScientificCalc.cube_root
      tags:
        - cube_root
