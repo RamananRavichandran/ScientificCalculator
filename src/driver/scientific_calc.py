@@ -25,6 +25,7 @@ class ScientificCalc:
         self.number = 0
         self.number1 = 0
         self.sinh_of_x = 0
+        self.fact = 0
 
     @classmethod
     def cal_power_ten(cls, pow_value):
@@ -45,9 +46,29 @@ class ScientificCalc:
             cls.result = exp_value ** cls.power
             return cls.result
         except ValueError as error:
-            logging.exception(error)
             print(error)
+            logging.exception(error)
             return "Please enter float or integer types input."
+
+    @classmethod
+    def factorial(cls, fact_input):
+        try:
+            fact_val = 1
+            print(fact_input)
+            cls.fact = int(fact_input)
+            print(cls.fact)
+            if cls.fact == 0:
+                fact_val = 1
+            elif cls.fact > 0:
+                for i in range(1, cls.fact+1):
+                    fact_val *= i
+            else:
+                return "Please enter integer type input"
+        except ValueError as fact_error:
+            logging.exception(fact_error)
+            print(fact_error)
+            return "Please enter integer type input"
+        return fact_val
 
     @classmethod
     def x_power_y(cls, base_val, power_val):
@@ -58,14 +79,14 @@ class ScientificCalc:
             return 1
         elif power_val % 2 == 0:
             return (cls.x_power_y(base_val, int(power_val / 2)) *
-                    cls.x_power_y(base_val, int(power_val / 2)))
+                          cls.x_power_y(base_val, int(power_val / 2)))
         else:
             if power_val > 0:
                 return (base_val * cls.x_power_y(base_val, int(power_val / 2)) *
-                        cls.x_power_y(base_val, int(power_val / 2)))
+                              cls.x_power_y(base_val, int(power_val / 2)))
             else:
                 return (cls.x_power_y(base_val, int(power_val / 2)) *
-                        cls.x_power_y(base_val, int(power_val / 2))) / base_val
+                              cls.x_power_y(base_val, int(power_val / 2))) / base_val
 
     @classmethod
     def var_initialization(cls, base_no, power_no):
@@ -107,18 +128,19 @@ class ScientificCalc:
     @classmethod
     def cube_root(cls, n_value):
         """function for Cube_Root"""
+        cls.cube_value = 0
         try:
-
             v_value = int(n_value)
             if v_value > 0:
-                return v_value ** 0.33333333333333333333333333333333
+                cls.cube_value = v_value ** 0.33333333333333333333333333333333
 
             if v_value < 0:
-                return -(-v_value) ** 0.33333333333333333333333333333333
+                cls.cube_value = -(-v_value) ** 0.33333333333333333333333333333333
 
         except ValueError:
             logging.error(ValueError)
             return "ValueError"
+        return cls.cube_value
 
     @classmethod
     def square_root(cls, x_value):
@@ -126,13 +148,14 @@ class ScientificCalc:
         try:
             cls.x_value = int(x_value)
             if cls.x_value >= 0:
-                return cls.x_value ** 0.5
+                cls.square_value = cls.x_value ** 0.5
             elif cls.x_value < 0:
-                imaginary_no = complex(cls.x_value) ** 0.5
-                return imaginary_no
+                cls.square_value = complex(cls.x_value) ** 0.5
+
         except ValueError:
             logging.error(ValueError)
             return "expecting integer value"
+        return cls.square_value
 
     @classmethod
     def rad(cls, angle):
@@ -251,15 +274,14 @@ class ScientificCalc:
                 else:
                     result = "-NAN-"
                 return result
-        except ValueError as value:
-            result = "string is not accepted"
-            logging.error(value)
-            return result
 
-        except Exception as exception1:
-            result = "Enter a valid value"
-            logging.error(exception1)
-            return result
+        except ValueError as v_error:
+            logging.error(v_error)
+            return "string is not accepted"
+
+        except Exception as exception:
+            logging.error(exception)
+            return "Enter a valid value"
 
     @classmethod
     def addition(cls, list_add):

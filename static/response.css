@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
             background-color:#eee
         }
@@ -14,3 +15,21 @@ body{
             width: 447px;
             border: solid black 2px;
          }
+=======
+ body{
+            background-color:#eee
+        }
+ h1{
+     color:maroon
+     font-size: 25px;
+   }
+ p{
+     margin-bottom: 10px;
+     padding: 5px 0;
+     font-size: 20px;
+     font-weight:bold;
+     text-align:center;
+     width: 447px;
+     border: solid black 2px;
+         }
+>>>>>>> 07f7a90d055354a7dfeabfdb4202f90f7f40aba4

@@ -1,57 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-    <content url="file://$MODULE_DIR$" />
-    <orderEntry type="inheritedJdk" />
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <content url="file://$MODULE_DIR$" />
-    <orderEntry type="inheritedJdk" />
-=======
-=======
-=======
-<<<<<<< HEAD
->>>>>>> 4c944343f6172ad5f12d2d283a784b6185f55c41
->>>>>>> d130c38b5790f23715f75e9664db833a2266946b
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.7" jdkType="Python SDK" />
 <<<<<<< HEAD
+    <orderEntry type="jdk" jdkName="Python 3.7 (cla)" jdkType="Python SDK" />
 =======
-=======
-<<<<<<< HEAD
->>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0
-    <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/venv" />
-    </content>
-    <orderEntry type="inheritedJdk" />
-<<<<<<< HEAD
-=======
-=======
-<<<<<<< HEAD
-    <content url="file://$MODULE_DIR$" />
-    <orderEntry type="inheritedJdk" />
-=======
-    <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/venv" />
-    </content>
-    <orderEntry type="jdk" jdkName="Python 3.7 (ScientificCalculator) (2)" jdkType="Python SDK" />
-<<<<<<< HEAD
->>>>>>> 595387508ebadcc6158a63afa14092031273379c
->>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
-=======
->>>>>>> 83b61c3510870c060d81b8618be93ad166c8b207
->>>>>>> 65eef2b104b41a6fcf0e5e37f5f9572795ba5a77
->>>>>>> b0886e731bbe124f7f8e6c655e3d02a0e8383af0
->>>>>>> 4c944343f6172ad5f12d2d283a784b6185f55c41
->>>>>>> d130c38b5790f23715f75e9664db833a2266946b
->>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
->>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0
+    <orderEntry type="jdk" jdkName="Python 3.7 (ScientificCalculator)" jdkType="Python SDK" />
+>>>>>>> e73186370941340e0691b6c869e97859289435aa
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">

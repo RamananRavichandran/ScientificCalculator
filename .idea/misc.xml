@@ -1,25 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
+<<<<<<< HEAD
+  <component name="PyCharmProfessionalAdvertiser">
+    <option name="shown" value="true" />
+  </component>
+=======
+<<<<<<< HEAD
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (cla)" project-jdk-type="Python SDK" />
+>>>>>>> 07f7a90d055354a7dfeabfdb4202f90f7f40aba4
+=======
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (ScientificCalculator)" project-jdk-type="Python SDK" />
-<<<<<<< HEAD
+>>>>>>> e73186370941340e0691b6c869e97859289435aa
   <component name="PyCharmProfessionalAdvertiser">
     <option name="shown" value="true" />
   </component>
-=======
 <<<<<<< HEAD
-  <component name="PyCharmProfessionalAdvertiser">
-    <option name="shown" value="true" />
-  </component>
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (ScientificCalculator) (2)" project-jdk-type="Python SDK" />
-  <component name="PyCharmProfessionalAdvertiser">
-    <option name="shown" value="true" />
-  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (ScientificCalculator) (3)" project-jdk-type="Python SDK" />
 >>>>>>> b405f71bbc91cc713782c97c443adea95cbeff2e
 =======
@@ -27,4 +24,6 @@
 >>>>>>> 1c63d3d4d1d85ce9dae817c1d3462604f741588f
 >>>>>>> aab6127bdaa277b932205fc21274bee9508c8ca0
 >>>>>>> dbed602d80a2356eab4168385c3d224707e8414c
+=======
+>>>>>>> 07f7a90d055354a7dfeabfdb4202f90f7f40aba4
 </project>

@@ -18,5 +18,13 @@ input[type="submit"] {
     text-align: center;
     text-decoration: none;
     font-size: 18px;
+<<<<<<< HEAD
     width: 100px
+=======
+<<<<<<< HEAD
+    width: 200%
+=======
+    width: 100%
+>>>>>>> e73186370941340e0691b6c869e97859289435aa
+>>>>>>> 07f7a90d055354a7dfeabfdb4202f90f7f40aba4
     }

@@ -570,3 +570,28 @@ class ScientificCalcTest(unittest.TestCase):
         """zero division error"""
         calc = ScientificCalc()
         self.assertEqual(calc.division([2, 0]), "Enter a number greater than zero")
+
+    def test_factorial_int(self):
+        """check if factorial input in integer and return valid answer"""
+        fact_obj = ScientificCalc()
+        self.assertEqual(fact_obj.factorial(5), 120)
+
+    def test_factorial_float(self):
+        """check if factorial input in float"""
+        fact_obj = ScientificCalc()
+        self.assertEqual(fact_obj.factorial("5.6"), "Please enter integer type input")
+
+    def test_factorial_string(self):
+        """check if factorial input in negative"""
+        fact_obj = ScientificCalc()
+        self.assertEqual(fact_obj.factorial("cigna"), "Please enter integer type input")
+
+    def test_factorial_negint(self):
+        """check if factorial input in negative"""
+        fact_obj = ScientificCalc()
+        self.assertEqual(fact_obj.factorial(-1), "Please enter integer type input")
+
+    def test_factorial_zero(self):
+        """check if factorial input in negative"""
+        fact_obj = ScientificCalc()
+        self.assertEqual(fact_obj.factorial(0), 1)
