@@ -25,6 +25,7 @@ class ScientificCalc:
         self.number = 0
         self.number1 = 0
         self.sinh_of_x = 0
+        self.fact = 0
 
     @classmethod
     def cal_power_ten(cls, pow_value):
@@ -50,6 +51,26 @@ class ScientificCalc:
             return "Please enter float or integer types input."
 
     @classmethod
+    def factorial(cls, fact_input):
+        try:
+            fact_val = 1
+            print(fact_input)
+            cls.fact = int(fact_input)
+            print(cls.fact)
+            if cls.fact == 0:
+                fact_val = 1
+            elif cls.fact > 0:
+                for i in range(1, cls.fact+1):
+                    fact_val *= i
+            else:
+                return "Please enter integer type input"
+        except ValueError as fact_error:
+            logging.exception(fact_error)
+            print(fact_error)
+            return "Please enter integer type input"
+        return fact_val
+
+    @classmethod
     def x_power_y(cls, base_val, power_val):
         """if power value is 0 returns 1
         else recursively calls x_power_y function and returns the final answer"""
@@ -70,6 +91,7 @@ class ScientificCalc:
     @classmethod
     def var_initialization(cls, base_no, power_no):
         """initializing the variables"""
+        print(base_no, power_no)
         try:
             base = float(base_no)
             power = int(power_no)
@@ -253,6 +275,7 @@ class ScientificCalc:
                 else:
                     result = "-NAN-"
                 return result
+
         except ValueError as v_error:
             logging.error(v_error)
             return "string is not accepted"
@@ -260,3 +283,60 @@ class ScientificCalc:
         except Exception as exception:
             logging.error(exception)
             return "Enter a valid value"
+
+    @classmethod
+    def addition(cls, list_add):
+        """calculating addition function"""
+        sum_list = 0
+        try:
+            for i in list_add:
+                sum_list = sum_list + float(i)
+            return sum_list
+
+        except ValueError as ex:
+            print("ValueError")
+            logging.error(ex)
+            return "Enter only numbers"
+
+    @classmethod
+    def subtraction(cls, list_sub):
+        """calculating subtraction function"""
+        try:
+            sub = float(list_sub[0])
+            for i in range(1, len(list_sub)):
+                sub = sub - float(list_sub[i])
+            return sub
+        except ValueError as ex:
+            print("ValueError")
+            logging.error(ex)
+            return "Enter only numbers"
+
+    @classmethod
+    def multiplication(cls, list_mul):
+        """calculating multiply function"""
+        try:
+            mul = 1
+            for i in list_mul:
+                mul = mul * float(i)
+            return mul
+        except ValueError as ex:
+            print("ValueError")
+            logging.error(ex)
+            return "Enter only numbers"
+
+    @classmethod
+    def division(cls, list_div):
+        """calculating divide function"""
+        try:
+            div = float(list_div[0])
+            for i in range(1, len(list_div)):
+                div = div / float(list_div[i])
+            return div
+        except ValueError as ex:
+            print("ValueError")
+            logging.error(ex)
+            return "Enter only numbers"
+        except ZeroDivisionError as ex:
+            print("ZeroDivisionError")
+            logging.error(ex)
+            return "Enter a number greater than zero"
