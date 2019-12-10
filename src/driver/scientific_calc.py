@@ -46,8 +46,8 @@ class ScientificCalc:
             cls.result = exp_value ** cls.power
             return cls.result
         except ValueError as error:
-            logging.exception(error)
             print(error)
+            logging.exception(error)
             return "Please enter float or integer types input."
 
     @classmethod
@@ -79,19 +79,18 @@ class ScientificCalc:
             return 1
         elif power_val % 2 == 0:
             return (cls.x_power_y(base_val, int(power_val / 2)) *
-                    cls.x_power_y(base_val, int(power_val / 2)))
+                          cls.x_power_y(base_val, int(power_val / 2)))
         else:
             if power_val > 0:
                 return (base_val * cls.x_power_y(base_val, int(power_val / 2)) *
-                        cls.x_power_y(base_val, int(power_val / 2)))
+                              cls.x_power_y(base_val, int(power_val / 2)))
             else:
                 return (cls.x_power_y(base_val, int(power_val / 2)) *
-                        cls.x_power_y(base_val, int(power_val / 2))) / base_val
+                              cls.x_power_y(base_val, int(power_val / 2))) / base_val
 
     @classmethod
     def var_initialization(cls, base_no, power_no):
         """initializing the variables"""
-        print(base_no, power_no)
         try:
             base = float(base_no)
             power = int(power_no)
@@ -129,18 +128,19 @@ class ScientificCalc:
     @classmethod
     def cube_root(cls, n_value):
         """function for Cube_Root"""
+        cls.cube_value = 0
         try:
-
             v_value = int(n_value)
             if v_value > 0:
-                return v_value ** 0.33333333333333333333333333333333
+                cls.cube_value = v_value ** 0.33333333333333333333333333333333
 
             if v_value < 0:
-                return -(-v_value) ** 0.33333333333333333333333333333333
+                cls.cube_value = -(-v_value) ** 0.33333333333333333333333333333333
 
         except ValueError:
             logging.error(ValueError)
             return "ValueError"
+        return cls.cube_value
 
     @classmethod
     def square_root(cls, x_value):
@@ -148,13 +148,14 @@ class ScientificCalc:
         try:
             cls.x_value = int(x_value)
             if cls.x_value >= 0:
-                return cls.x_value ** 0.5
+                cls.square_value = cls.x_value ** 0.5
             elif cls.x_value < 0:
-                imaginary_no = complex(cls.x_value) ** 0.5
-                return imaginary_no
+                cls.square_value = complex(cls.x_value) ** 0.5
+
         except ValueError:
             logging.error(ValueError)
             return "expecting integer value"
+        return cls.square_value
 
     @classmethod
     def rad(cls, angle):
@@ -273,15 +274,14 @@ class ScientificCalc:
                 else:
                     result = "-NAN-"
                 return result
-        except ValueError as value:
-            result = "string is not accepted"
-            logging.error(value)
-            return result
 
-        except Exception as exception1:
-            result = "Enter a valid value"
-            logging.error(exception1)
-            return result
+        except ValueError as v_error:
+            logging.error(v_error)
+            return "string is not accepted"
+
+        except Exception as exception:
+            logging.error(exception)
+            return "Enter a valid value"
 
     @classmethod
     def addition(cls, list_add):

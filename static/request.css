@@ -1,15 +1,6 @@
-<<<<<<< HEAD
 body{
-=======
-<<<<<<< HEAD
-
-        body{
-=======
-body{
->>>>>>> ed1f0685b926e9ab9ad67d8b15b67c73e2a1e5c7
->>>>>>> 1fe08ad1d4c6ee6621a55d3d8b497113a87ee55c
-            background-color:#eee
-        }
+     background-color:#eee
+    }
         .title {
             margin-bottom: 6px;
             padding: 2px 0;
@@ -29,7 +20,7 @@ body{
             text-decoration: none;
             font-size: 18px;
         }
-        input[type="reset"] {
+input[type="reset"] {
             background-color: maroon;
             border: none;
             color: white;
@@ -37,8 +28,4 @@ body{
             text-align: center;
             text-decoration: none;
             font-size: 18px;
-<<<<<<< HEAD
         }
-=======
-        }
->>>>>>> 1fe08ad1d4c6ee6621a55d3d8b497113a87ee55c

@@ -1,6 +1,5 @@
 """ setup file to create egg"""
 from setuptools import setup, find_packages
-
 setup(
     name="ScientificCalculator",
     version='1.14',

@@ -4,7 +4,11 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
+<<<<<<< HEAD
+    <orderEntry type="jdk" jdkName="Python 3.7 (cla)" jdkType="Python SDK" />
+=======
     <orderEntry type="jdk" jdkName="Python 3.7 (ScientificCalculator)" jdkType="Python SDK" />
+>>>>>>> e73186370941340e0691b6c869e97859289435aa
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
