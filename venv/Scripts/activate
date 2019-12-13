@@ -28,7 +28,7 @@ deactivate () {
     fi
 
     unset VIRTUAL_ENV
-    if [ ! "$1" = "nondestructive" ] ; then
+    if [ ! "${1:-}" = "nondestructive" ] ; then
     # Self destruct!
         unset -f deactivate
     fi
@@ -37,15 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-<<<<<<< HEAD
-VIRTUAL_ENV="C:\Users\karishma.murali\PycharmProjects\ScientificCalculator\venv"
-=======
-<<<<<<< HEAD
-VIRTUAL_ENV="C:\Users\nivetha.samraj\PycharmProjects\ScientificCalculator\venv"
-=======
-VIRTUAL_ENV="C:\Users\karishma.murali\PycharmProjects\ScientificCalculator\venv"
->>>>>>> 17edfa78bf9d7e6eb71318aef6a85c11a025a5ea
->>>>>>> 5644851337f0f8f7bfae46110ef5a669a48193df
+VIRTUAL_ENV="C:\Users\jamunadevi.murugan\PycharmProject\ScientificCalculator\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
