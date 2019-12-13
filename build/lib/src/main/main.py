@@ -7,9 +7,9 @@ from src.driver.scientific_calc import ScientificCalc
 from src.exception.method_not_found_exception import MethodNotFoundException
 
 logging.basicConfig(filename='ScientificCalculatorLog.log', level=logging.ERROR,
-                    format='%(name)s - %(levelname)s - %(message)s - %(asctime)s '
-                           '- %(lineno)d - %(module)s - %('
-                           'funcName)s - %(pathname)s')
+                       format='%(name)s - %(levelname)s - %(message)s - %(asctime)s '
+                       '- %(lineno)d - %(module)s - %('
+                       'funcName)s - %(pathname)s')
 
 
 def main():
@@ -39,16 +39,17 @@ def main():
             input_power = method_name[2]
             final_answer = obj_power.var_initialization(input_base, input_power)
             print(final_answer)
-        elif method_name[0] == 'calculate_tanh':
+        elif method_name[0] == 'tanh':
             if len(method_name) > 2:
                 raise UnnecessaryParameterException
             res = obj_power.calculate_tanh(method_name[1])
             print(res)
-        elif method_name[0] == 'sin_func':
+        elif method_name[0] == 'sin':
             if len(method_name) > 2:
                 raise UnnecessaryParameterException
             power = method_name[1]
             print(obj_power.sin_func(power))
+
         elif method_name[0] == 'cube_root':
             if len(method_name) > 2:
                 raise UnnecessaryParameterException
@@ -69,6 +70,59 @@ def main():
                 raise UnnecessaryParameterException
             number1 = method_name[1]
             print(obj_power.one_by_x(number1))
+        elif method_name[0] == 'cos':
+            if len(method_name) > 2:
+                raise UnnecessaryParameterException
+            number1 = method_name[1]
+            print(obj_power.calculate_cos(number1))
+        elif method_name[0] == 'tan':
+            if len(method_name) > 2:
+                raise UnnecessaryParameterException
+            tan_result = method_name[1]
+            print(obj_power.tan_fun(tan_result))
+        elif method_name[0] == 'log':
+            if len(method_name) > 2:
+                raise UnnecessaryParameterException
+            log_result = method_name[1]
+            print(obj_power.logarithm(log_result))
+        elif method_name[0] == 'sinh':
+            if len(method_name) > 2:
+                raise UnnecessaryParameterException
+            sinh_input = method_name[1]
+            print(obj_power.sine_h(sinh_input))
+        elif method_name[0] == 'cosh':
+            if len(method_name) > 2:
+                raise UnnecessaryParameterException
+            number = method_name[1]
+            print(obj_power.trig_cosh(number))
+        elif method_name[0] == 'ln':
+            if len(method_name) > 2:
+                raise UnnecessaryParameterException
+            power = method_name[1]
+            print(obj_power.ln_func(power))
+        elif method_name[0] == 'add':
+            add_list = []
+            for key in range(1, len(method_name)):
+                add_list.append(method_name[key])
+            print(obj_power.addition(add_list))
+
+        elif method_name[0] == 'sub':
+            sub_list = []
+            for key in range(1, len(method_name)):
+                sub_list.append(method_name[key])
+            print(obj_power.subtraction(sub_list))
+
+        elif method_name[0] == 'mul':
+            mul_list = []
+            for key in range(1, len(method_name)):
+                mul_list.append(method_name[key])
+            print(obj_power.multiplication(mul_list))
+
+        elif method_name[0] == 'div':
+            div_list = []
+            for key in range(1, len(method_name)):
+                div_list.append(method_name[key])
+            print(obj_power.division(div_list))
         else:
             raise MethodNotFoundException
 

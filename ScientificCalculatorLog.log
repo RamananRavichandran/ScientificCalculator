@@ -2256,6 +2256,7 @@ werkzeug - INFO - 127.0.0.1 - - [10/Dec/2019 15:52:36] "GET /tangent_req?tangent
 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2019 15:53:29] "GET / HTTP/1.1" 200 - - 2019-12-10 15:53:29,891 - 122 - _internal - _log - C:\Python27\lib\site-packages\werkzeug\_internal.py
 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2019 15:53:31] "GET /tangent_req?tangent=tan HTTP/1.1" 200 - - 2019-12-10 15:53:31,201 - 122 - _internal - _log - C:\Python27\lib\site-packages\werkzeug\_internal.py
 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2019 15:53:32] "GET /tanh_req?tanh=tanh HTTP/1.1" 200 - - 2019-12-10 15:53:32,963 - 122 - _internal - _log - C:\Python27\lib\site-packages\werkzeug\_internal.py
+<<<<<<< .merge_file_a28052
 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2019 15:55:12] "GET / HTTP/1.1" 200 - - 2019-12-10 15:55:12,506 - 122 - _internal - _log - C:\Python27\lib\site-packages\werkzeug\_internal.py
 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2019 15:55:13] "GET /tanh_req?tanh=tanh HTTP/1.1" 200 - - 2019-12-10 15:55:13,381 - 122 - _internal - _log - C:\Python27\lib\site-packages\werkzeug\_internal.py
 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2019 15:55:15] "GET /tangent_req?tangent=tan HTTP/1.1" 200 - - 2019-12-10 15:55:15,766 - 122 - _internal - _log - C:\Python27\lib\site-packages\werkzeug\_internal.py
@@ -2270,3 +2271,5 @@ werkzeug - INFO - 127.0.0.1 - - [10/Dec/2019 15:58:53] "POST /addition_res HTTP/
 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2019 16:01:02] "POST /addition_res HTTP/1.1" 200 - - 2019-12-10 16:01:02,681 - 122 - _internal - _log - C:\Python27\lib\site-packages\werkzeug\_internal.py
 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2019 16:01:06] "GET /radian_req?radian=radian HTTP/1.1" 200 - - 2019-12-10 16:01:06,213 - 122 - _internal - _log - C:\Python27\lib\site-packages\werkzeug\_internal.py
 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2019 17:35:52] "GET / HTTP/1.1" 200 - - 2019-12-10 17:35:52,594 - 122 - _internal - _log - C:\Python27\lib\site-packages\werkzeug\_internal.py
+=======
+>>>>>>> .merge_file_a36020
