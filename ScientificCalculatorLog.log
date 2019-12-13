@@ -2256,6 +2256,7 @@ werkzeug - INFO - 127.0.0.1 - - [10/Dec/2019 15:52:36] "GET /tangent_req?tangent
 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2019 15:53:29] "GET / HTTP/1.1" 200 - - 2019-12-10 15:53:29,891 - 122 - _internal - _log - C:\Python27\lib\site-packages\werkzeug\_internal.py
 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2019 15:53:31] "GET /tangent_req?tangent=tan HTTP/1.1" 200 - - 2019-12-10 15:53:31,201 - 122 - _internal - _log - C:\Python27\lib\site-packages\werkzeug\_internal.py
 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2019 15:53:32] "GET /tanh_req?tanh=tanh HTTP/1.1" 200 - - 2019-12-10 15:53:32,963 - 122 - _internal - _log - C:\Python27\lib\site-packages\werkzeug\_internal.py
+<<<<<<< HEAD
 <<<<<<< .merge_file_a28052
 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2019 15:55:12] "GET / HTTP/1.1" 200 - - 2019-12-10 15:55:12,506 - 122 - _internal - _log - C:\Python27\lib\site-packages\werkzeug\_internal.py
 werkzeug - INFO - 127.0.0.1 - - [10/Dec/2019 15:55:13] "GET /tanh_req?tanh=tanh HTTP/1.1" 200 - - 2019-12-10 15:55:13,381 - 122 - _internal - _log - C:\Python27\lib\site-packages\werkzeug\_internal.py
@@ -2300,3 +2301,5 @@ werkzeug - INFO - 127.0.0.1 - - [13/Dec/2019 15:28:04] "GET /logarithm_req?logar
 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2019 15:28:06] "GET /logarithm_req?logarithm=log HTTP/1.1" 404 - - 2019-12-13 15:28:06,753 - 122 - _internal - _log - C:\Python27\lib\site-packages\werkzeug\_internal.py
 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2019 15:28:19] "GET /cube_root_req?cube_root=cube_root HTTP/1.1" 200 - - 2019-12-13 15:28:19,095 - 122 - _internal - _log - C:\Python27\lib\site-packages\werkzeug\_internal.py
 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2019 15:28:25] "POST /cube_root_res HTTP/1.1" 200 - - 2019-12-13 15:28:25,214 - 122 - _internal - _log - C:\Python27\lib\site-packages\werkzeug\_internal.py
+=======
+>>>>>>> 4b9a8302aaa864ea6cf78cd145df71928beec78f
