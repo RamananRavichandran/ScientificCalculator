@@ -150,7 +150,6 @@ def subtraction_req():
 
 @app.route("/subtraction_res", methods=['POST'])
 def subtraction_res():
-
     num1 = request.form.get('input1')
     num2 = request.form.get('input2')
     list_sub = [num1, num2]
@@ -265,6 +264,19 @@ def one_by_x_res():
     ca1c = ScientificCalc()
     result = ca1c.one_by_x(number)
     return render_template('one_by_x_response.html', value=result)
+
+
+@app.route("/logarithm_req")
+def logarithm_req():
+    return render_template('logarithm_req.html')
+
+
+@app.route("/logarithm_res", methods=['POST'])
+def logarithm_res():
+    log_number = request.form.get('input')
+    ca1c = ScientificCalc()
+    result = ca1c.one_by_x(log_number)
+    return render_template('logarithm_res.html', value=result)
 
 
 if __name__ == '__main__':
