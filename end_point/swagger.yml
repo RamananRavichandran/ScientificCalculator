@@ -246,7 +246,7 @@ paths:
         - name: pow_value
           in: path
           description: Provides x value
-          type: integer
+          type: string
           required: true
       responses:
         200:
@@ -254,7 +254,7 @@ paths:
           schema:
             properties:
               output:
-                type: integer
+                type: string
 
   /src/driver/scientific_calc/ScientificCalc/logarithm{number1}:
     post:
