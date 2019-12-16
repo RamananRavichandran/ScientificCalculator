@@ -1,12 +1,17 @@
-from flask import Flask, render_template, request
+from flask import (
+    Flask,
+    render_template,
+    request
+)
 from src.driver.scientific_calc import ScientificCalc
 
 app = Flask(__name__, template_folder="templates")
 
-
-@app.route("/")
+# Create a URL route in our application for "/"
+@app.route('/')
 def home():
-    return render_template('home.html')
+    """directed to home page"""
+    return render_template("home.html")
 
 
 @app.route('/x_power_y_request')
@@ -279,5 +284,6 @@ def logarithm_res():
     return render_template('logarithm_res.html', value=result)
 
 
+# If we're running in stand alone mode, run the application
 if __name__ == '__main__':
     app.run(debug=True)
